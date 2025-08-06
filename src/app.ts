@@ -2,6 +2,7 @@ import express from "express";
 import cors from "cors";
 import logger from "./config/logger-config";
 import sequelize from "./database/config/sequalize-config";
+import { notesRouter } from "./module";
 
 const application = async () => {
   try {
@@ -33,6 +34,8 @@ const application = async () => {
     await sequelize.sync({});
 
     logger.info("Sequelize with Postgres Connected");
+
+    app.use('/api/v1' , notesRouter)
 
     return app;
   } catch (error) {
