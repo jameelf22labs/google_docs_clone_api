@@ -28,7 +28,7 @@ export default class CollabHandler {
     const updated = collabs.filter((item) => {
       try {
         const parsed = JSON.parse(item);
-        return parsed.userName !== userName;
+        return parsed?.user?.userName !== userName;
       } catch {
         return true;
       }
