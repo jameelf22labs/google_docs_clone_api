@@ -1,11 +1,18 @@
+import http from "http";
 import application from "./app";
-import envConfig from "./config/env-config";
+import EnvConfig from "./config/env-config";
 import logger from "./config/logger-config";
+import { Server as SocketIOServer } from "socket.io";
 
 application()
   .then((app) => {
-    app?.listen(envConfig.Port, () => {
-      logger.info(`Application start on Port ${envConfig.Port}`);
+    const server = http.createServer(app);
+    const io = new SocketIOServer(server);
+    io.on("connection", (socket) => {
+      logger.info("New Socker Client ", socket.id);
+    });
+    server.listen(EnvConfig.Port, () => {
+      logger.info("Application running on port ", EnvConfig.Port);
     });
   })
   .catch((error) => {

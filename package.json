@@ -4,39 +4,43 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node dist/server.js",
+    "dev": "nodemon --watch src --ext ts,json --exec \"npx ts-node\" src/server.ts"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "type": "commonjs",
   "dependencies": {
-    "dotenv": "^17.2.1",
-    "express": "^5.1.0",
     "@sequelize/core": "^7.0.0-alpha.46",
     "@sequelize/postgres": "^7.0.0-alpha.46",
     "@types/cors": "^2.8.19",
+    "@types/socket.io": "^3.0.1",
     "@types/uuid": "^10.0.0",
     "cors": "^2.8.5",
+    "dotenv": "^17.2.1",
+    "express": "^5.1.0",
     "joi": "^17.13.3",
     "log4js": "^6.9.1",
     "sequelize": "^6.37.7",
+    "socket.io": "^4.8.1",
     "uuid": "^11.1.0"
   },
   "devDependencies": {
-    "@types/express": "^5.0.3",
-    "@types/node": "^24.2.0",
-    "eslint": "^9.32.0",
-    "nodemon": "^3.1.10",
-    "prettier": "^3.6.2",
-    "ts-node": "^10.9.2",
-    "typescript": "^5.9.2",
     "@tsconfig/node22": "^22.0.2",
     "@types/bcrypt": "^5.0.2",
+    "@types/express": "^5.0.3",
     "@types/log4js": "^0.0.33",
+    "@types/node": "^24.2.0",
     "dotenv": "^17.2.0",
+    "eslint": "^9.32.0",
     "express": "^5.1.0",
     "install": "^0.13.0",
-    "npm": "^11.4.2"
+    "nodemon": "^3.1.10",
+    "npm": "^11.4.2",
+    "prettier": "^3.6.2",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.2"
   }
 }
