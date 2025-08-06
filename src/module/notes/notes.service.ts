@@ -20,7 +20,7 @@ const NoteProvider = {
   },
 
   async getNote(id: string) {
-    const note = await Notes.findByPk(id);
+    const note = await Notes.findOne({ where: { id } });
     if (!note) throw new NotFoundError("Note not found");
     return note;
   },

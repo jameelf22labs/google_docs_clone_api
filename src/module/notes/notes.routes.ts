@@ -6,16 +6,13 @@ const notesRouter = Router();
 const notesHandler = new NotesHandler();
 
 notesRouter.post(
-  "/note/newNote",
+  "/newNote",
   notesHandler.handleCreateNote.bind(notesHandler)
 );
-
-notesRouter.get("/note/:id", notesHandler.handleGetNote.bind(notesHandler));
-
-notesRouter.get("/note/all", notesHandler.handleGetAllNotes.bind(notesHandler));
-
+notesRouter.get("/all", notesHandler.handleGetAllNotes.bind(notesHandler));
+notesRouter.get("/:id", notesHandler.handleGetNote.bind(notesHandler));
 notesRouter.delete(
-  "/note/:id",
+  "/:id",
   notesHandler.handleDeleteNote.bind(notesHandler)
 );
 
