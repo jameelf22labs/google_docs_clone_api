@@ -21,7 +21,7 @@ export default class CollabHandler {
     if (!noteId || !userName) {
       throw new Error("NoteId and username should be required");
     }
- 
+
     const roomKey = `room:${noteId}`;
     const collabs = await redis.smembers(roomKey);
 
@@ -36,7 +36,7 @@ export default class CollabHandler {
 
     await redis.del(roomKey);
     if (updated.length > 0) {
-      await redis.sadd(roomKey, ...updated); 
+      await redis.sadd(roomKey, ...updated);
     }
 
     return {
