@@ -28,6 +28,8 @@ export default (io: Server, socket: Socket) => {
         await redis.srem(redisKey, JSON.stringify(existing));
       }
 
+      socket.to(noteId).emit("note-new-user-joined", user);
+
       await redis.sadd(redisKey, JSON.stringify({ socketId: socket.id, user }));
       logger.info(`${user.userName} joined in ${noteId}`);
     } catch (error) {}
