@@ -12,7 +12,11 @@ const application = async () => {
 
     app.use(
       cors({
-        origin: [EnvConfig.UiHostUrl, "http://localhost:5173/" , "http://localhost:4173/" ],
+        origin: [
+          EnvConfig.UiHostUrl,
+          "http://localhost:5173",
+          "http://localhost:4173",
+        ],
         credentials: true,
       })
     );

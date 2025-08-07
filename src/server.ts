@@ -10,7 +10,7 @@ application()
     const server = http.createServer(app);
     const io = new SocketIOServer(server, {
       cors: {
-        origin: [EnvConfig.UiHostUrl, "http://localhost:5173/" , "http://localhost:4173/"],
+        origin: [EnvConfig.UiHostUrl, "http://localhost:5173" , "http://localhost:4173"],
         methods: ["GET", "POST"],
         credentials: true,
       },
