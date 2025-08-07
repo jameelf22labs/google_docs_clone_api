@@ -1,7 +1,9 @@
-import express from "express";
+import express, { NextFunction, Request, Response } from "express";
 import cors from "cors";
 import logger from "./config/logger-config";
 import sequelize from "./database/config/sequalize-config";
+import { collabRouter, notesRouter } from "./module";
+import globalErrorMiddleware from "./middleware/global-exception.middleware";
 
 const application = async () => {
   try {
@@ -33,6 +35,11 @@ const application = async () => {
     await sequelize.sync({});
 
     logger.info("Sequelize with Postgres Connected");
+
+    app.use("/api/v1/notes", notesRouter);
+    app.use("/api/v1/collab", collabRouter);
+
+    app.use(globalErrorMiddleware);
 
     return app;
   } catch (error) {
