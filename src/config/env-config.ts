@@ -16,6 +16,7 @@ type EnvConfiqType = {
     Password: string;
     User: string;
   };
+  UiHostUrl: string;
 };
 
 const EnvConfig: EnvConfiqType = {
@@ -32,6 +33,7 @@ const EnvConfig: EnvConfiqType = {
     Password: process.env.REDIS_PASSWORD || "root",
     User: process.env.REDIS_USER || "root",
   },
+  UiHostUrl: process.env.UI_HOST_URL || "http://localhost:5173/",
 };
 
 export default EnvConfig;

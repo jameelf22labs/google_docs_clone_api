@@ -4,6 +4,7 @@ import logger from "./config/logger-config";
 import sequelize from "./database/config/sequalize-config";
 import { collabRouter, notesRouter } from "./module";
 import globalErrorMiddleware from "./middleware/global-exception.middleware";
+import EnvConfig from "./config/env-config";
 
 const application = async () => {
   try {
@@ -11,7 +12,7 @@ const application = async () => {
 
     app.use(
       cors({
-        origin: ["http://localhost:5173"],
+        origin: [EnvConfig.UiHostUrl, "http://localhost:5173/"],
         credentials: true,
       })
     );
