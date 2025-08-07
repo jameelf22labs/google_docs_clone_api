@@ -6,7 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "NODE_ENV=production node dist/server.js",
-    "dev": "NODE_ENV=development  nodemon --watch src --ext ts,json --exec \"npx ts-node\" src/server.ts"
+    "dev": "NODE_ENV=development  nodemon --watch src --ext ts,json --exec \"npx ts-node\" src/server.ts",
+    "build": "tsc"
   },
   "keywords": [],
   "author": "",
