@@ -1,7 +1,6 @@
 import { Server, Socket } from "socket.io";
 import logger from "../config/logger-config";
 import redis from "../config/redis-config";
-import { string } from "joi";
 import NoteQueryHelper from "../database/helpers/Note.query.helper";
 
 export type User = {
@@ -43,6 +42,10 @@ export default (io: Server, socket: Socket) => {
         socket.to(noteId).emit("note-changed-content", content);
       }
     } catch (error) {}
+  });
+
+  socket.on("note-user-leave", (noteId, user) => {
+    socket.to(noteId).emit("note-user-leaved", user);
   });
 
   socket.on("disconnect", () => {

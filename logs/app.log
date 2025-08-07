@@ -4464,3 +4464,449 @@ This allows Node.js to handle thousands of concurrent connections with a single 
 [2025-08-07T11:52:30.862] [INFO] default - GET localhost /api/v1/notes/all Thu Aug 07 2025 11:52:30 GMT+0530 (India Standard Time)
 [2025-08-07T11:52:33.472] [INFO] default - GET localhost /api/v1/notes/all Thu Aug 07 2025 11:52:33 GMT+0530 (India Standard Time)
 [2025-08-07T11:52:33.479] [INFO] default - GET localhost /api/v1/notes/all Thu Aug 07 2025 11:52:33 GMT+0530 (India Standard Time)
+[2025-08-07T11:54:40.989] [INFO] default - Sequelize with Postgres Connected
+[2025-08-07T11:54:40.993] [INFO] default - Application running on port  9090
+[2025-08-07T11:54:41.470] [INFO] default - New Socker Client  daJJPQ7zBoo4KXFtAAAB
+[2025-08-07T11:54:41.550] [INFO] default - New Socker Client  r1mU9FposIxh3hNLAAAD
+[2025-08-07T11:54:42.736] [INFO] default - New Socker Client  hSfr90YxMCDvaQAYAAAF
+[2025-08-07T11:56:00.338] [INFO] default - New Socker Client  jRl_QKpGs2G4sjdsAAAH
+[2025-08-07T11:56:00.354] [INFO] default - GET localhost /api/v1/notes/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 11:56:00 GMT+0530 (India Standard Time)
+[2025-08-07T11:56:00.364] [INFO] default - GET localhost /api/v1/collab/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 11:56:00 GMT+0530 (India Standard Time)
+[2025-08-07T11:56:00.367] [INFO] default - iD1nyTgIu6EVuQWIJtKOh joined in 705d0443-28f3-4508-a362-3189891210e0
+[2025-08-07T11:56:00.368] [INFO] default - GET localhost /api/v1/collab/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 11:56:00 GMT+0530 (India Standard Time)
+[2025-08-07T11:56:00.383] [INFO] default - GET localhost /api/v1/notes/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 11:56:00 GMT+0530 (India Standard Time)
+[2025-08-07T11:56:00.467] [INFO] default - iD1nyTgIu6EVuQWIJtKOh joined in 705d0443-28f3-4508-a362-3189891210e0
+[2025-08-07T11:56:05.416] [INFO] default - New Socker Client  RSqO485Aen2Qr4kWAAAJ
+[2025-08-07T11:56:05.428] [INFO] default - GET localhost /api/v1/notes/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 11:56:05 GMT+0530 (India Standard Time)
+[2025-08-07T11:56:05.433] [INFO] default - GET localhost /api/v1/collab/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 11:56:05 GMT+0530 (India Standard Time)
+[2025-08-07T11:56:05.434] [INFO] default - oMcRoa6k0tIOtfcnEIK5g joined in 705d0443-28f3-4508-a362-3189891210e0
+[2025-08-07T11:56:05.434] [INFO] default - GET localhost /api/v1/notes/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 11:56:05 GMT+0530 (India Standard Time)
+[2025-08-07T11:56:05.436] [INFO] default - GET localhost /api/v1/collab/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 11:56:05 GMT+0530 (India Standard Time)
+[2025-08-07T11:56:05.443] [INFO] default - GET localhost /api/v1/collab/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 11:56:05 GMT+0530 (India Standard Time)
+[2025-08-07T11:56:05.535] [INFO] default - oMcRoa6k0tIOtfcnEIK5g joined in 705d0443-28f3-4508-a362-3189891210e0
+[2025-08-07T11:56:28.545] [INFO] default - POST localhost /api/v1/collab/leaveRoom Thu Aug 07 2025 11:56:28 GMT+0530 (India Standard Time)
+[2025-08-07T11:56:28.551] [INFO] default - GET localhost /api/v1/notes/all Thu Aug 07 2025 11:56:28 GMT+0530 (India Standard Time)
+[2025-08-07T11:56:28.584] [INFO] default - GET localhost /api/v1/notes/all Thu Aug 07 2025 11:56:28 GMT+0530 (India Standard Time)
+[2025-08-07T11:57:18.942] [INFO] default - GET localhost /api/v1/notes/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 11:57:18 GMT+0530 (India Standard Time)
+[2025-08-07T11:57:18.946] [INFO] default - iD1nyTgIu6EVuQWIJtKOh joined in 705d0443-28f3-4508-a362-3189891210e0
+[2025-08-07T11:57:18.949] [INFO] default - GET localhost /api/v1/collab/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 11:57:18 GMT+0530 (India Standard Time)
+[2025-08-07T12:01:32.105] [INFO] default - Sequelize with Postgres Connected
+[2025-08-07T12:01:32.110] [INFO] default - Application running on port  9090
+[2025-08-07T12:01:33.989] [INFO] default - New Socker Client  NQ-Iu6b6hHtKpB_qAAAB
+[2025-08-07T12:01:35.132] [INFO] default - New Socker Client  1J9N-XDaCA0IksXRAAAD
+[2025-08-07T12:01:35.938] [INFO] default - New Socker Client  m_SBbYmPRXu5Ao2uAAAF
+[2025-08-07T12:01:46.238] [INFO] default - Sequelize with Postgres Connected
+[2025-08-07T12:01:46.243] [INFO] default - Application running on port  9090
+[2025-08-07T12:01:46.350] [INFO] default - New Socker Client  JGFbqLuHqXEcMTz7AAAB
+[2025-08-07T12:01:46.420] [INFO] default - New Socker Client  X5KBtWfP6XmiE6J4AAAD
+[2025-08-07T12:02:25.981] [INFO] default - Sequelize with Postgres Connected
+[2025-08-07T12:02:25.986] [INFO] default - Application running on port  9090
+[2025-08-07T12:02:28.045] [INFO] default - New Socker Client  2kaPY080nf0iW5A7AAAB
+[2025-08-07T12:02:29.290] [INFO] default - New Socker Client  TYedDwLDtyc9t2CqAAAD
+[2025-08-07T12:02:32.276] [INFO] default - Sequelize with Postgres Connected
+[2025-08-07T12:02:32.283] [INFO] default - Application running on port  9090
+[2025-08-07T12:02:33.012] [INFO] default - New Socker Client  JW1JTIo_ryt-w5h2AAAB
+[2025-08-07T12:02:33.396] [INFO] default - New Socker Client  qkWCrDuOrJBcyYQGAAAD
+[2025-08-07T12:02:35.183] [INFO] default - New Socker Client  iD9N-RGKdMfFSG65AAAF
+[2025-08-07T12:02:50.190] [INFO] default - Sequelize with Postgres Connected
+[2025-08-07T12:02:50.197] [INFO] default - Application running on port  9090
+[2025-08-07T12:02:50.454] [INFO] default - New Socker Client  MYQHCYtu3FUfm92HAAAB
+[2025-08-07T12:02:54.141] [INFO] default - Sequelize with Postgres Connected
+[2025-08-07T12:02:54.145] [INFO] default - Application running on port  9090
+[2025-08-07T12:02:54.566] [INFO] default - New Socker Client  j7B_AlB4ryg0WuCrAAAB
+[2025-08-07T12:02:54.978] [INFO] default - New Socker Client  GmVKt3tDautnDBRjAAAD
+[2025-08-07T12:02:55.143] [INFO] default - New Socker Client  wlXjF8iF-Yr8aw42AAAF
+[2025-08-07T12:03:01.887] [INFO] default - Sequelize with Postgres Connected
+[2025-08-07T12:03:01.891] [INFO] default - Application running on port  9090
+[2025-08-07T12:03:01.969] [INFO] default - New Socker Client  Sm0hA4hONn6NCe5GAAAB
+[2025-08-07T12:03:02.345] [INFO] default - New Socker Client  jaBxtU83Bf51F2csAAAD
+[2025-08-07T12:03:08.546] [INFO] default - Sequelize with Postgres Connected
+[2025-08-07T12:03:08.553] [INFO] default - Application running on port  9090
+[2025-08-07T12:03:09.495] [INFO] default - New Socker Client  Idtp160Uh7xO-TNSAAAB
+[2025-08-07T12:03:11.713] [INFO] default - New Socker Client  VGwV5feqSOVtgojNAAAD
+[2025-08-07T12:03:12.200] [INFO] default - New Socker Client  joXBC5tDfw11gZ1SAAAF
+[2025-08-07T12:03:21.131] [INFO] default - New Socker Client  yb4Bav44t0gjbDXrAAAH
+[2025-08-07T12:03:21.160] [INFO] default - GET localhost /api/v1/notes/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:03:21 GMT+0530 (India Standard Time)
+[2025-08-07T12:03:21.170] [INFO] default - GET localhost /api/v1/collab/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:03:21 GMT+0530 (India Standard Time)
+[2025-08-07T12:03:21.174] [INFO] default - 6K9y-87pxpP8I0Mvalhzp joined in 705d0443-28f3-4508-a362-3189891210e0
+[2025-08-07T12:03:21.175] [INFO] default - GET localhost /api/v1/collab/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:03:21 GMT+0530 (India Standard Time)
+[2025-08-07T12:03:21.191] [INFO] default - GET localhost /api/v1/notes/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:03:21 GMT+0530 (India Standard Time)
+[2025-08-07T12:03:21.279] [INFO] default - 6K9y-87pxpP8I0Mvalhzp joined in 705d0443-28f3-4508-a362-3189891210e0
+[2025-08-07T12:03:26.401] [INFO] default - New Socker Client  kW1Dhb1aeMLSxu05AAAJ
+[2025-08-07T12:03:26.416] [INFO] default - GET localhost /api/v1/notes/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:03:26 GMT+0530 (India Standard Time)
+[2025-08-07T12:03:26.421] [INFO] default - GET localhost /api/v1/collab/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:03:26 GMT+0530 (India Standard Time)
+[2025-08-07T12:03:26.422] [INFO] default - oMcRoa6k0tIOtfcnEIK5g joined in 705d0443-28f3-4508-a362-3189891210e0
+[2025-08-07T12:03:26.426] [INFO] default - GET localhost /api/v1/notes/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:03:26 GMT+0530 (India Standard Time)
+[2025-08-07T12:03:26.430] [INFO] default - GET localhost /api/v1/collab/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:03:26 GMT+0530 (India Standard Time)
+[2025-08-07T12:03:26.431] [INFO] default - oMcRoa6k0tIOtfcnEIK5g joined in 705d0443-28f3-4508-a362-3189891210e0
+[2025-08-07T12:03:26.433] [INFO] default - GET localhost /api/v1/collab/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:03:26 GMT+0530 (India Standard Time)
+[2025-08-07T12:03:31.436] [INFO] default - New Socker Client  YyMJCKbx8QWySZUrAAAL
+[2025-08-07T12:03:31.450] [INFO] default - GET localhost /api/v1/notes/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:03:31 GMT+0530 (India Standard Time)
+[2025-08-07T12:03:31.455] [INFO] default - GET localhost /api/v1/collab/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:03:31 GMT+0530 (India Standard Time)
+[2025-08-07T12:03:31.457] [INFO] default - iD1nyTgIu6EVuQWIJtKOh joined in 705d0443-28f3-4508-a362-3189891210e0
+[2025-08-07T12:03:31.457] [INFO] default - GET localhost /api/v1/notes/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:03:31 GMT+0530 (India Standard Time)
+[2025-08-07T12:03:31.460] [INFO] default - GET localhost /api/v1/collab/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:03:31 GMT+0530 (India Standard Time)
+[2025-08-07T12:03:31.465] [INFO] default - GET localhost /api/v1/collab/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:03:31 GMT+0530 (India Standard Time)
+[2025-08-07T12:03:31.558] [INFO] default - iD1nyTgIu6EVuQWIJtKOh joined in 705d0443-28f3-4508-a362-3189891210e0
+[2025-08-07T12:03:38.393] [INFO] default - POST localhost /api/v1/collab/leaveRoom Thu Aug 07 2025 12:03:38 GMT+0530 (India Standard Time)
+[2025-08-07T12:03:38.397] [INFO] default - GET localhost /api/v1/collab/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:03:38 GMT+0530 (India Standard Time)
+[2025-08-07T12:03:38.402] [INFO] default - GET localhost /api/v1/notes/all Thu Aug 07 2025 12:03:38 GMT+0530 (India Standard Time)
+[2025-08-07T12:03:38.414] [INFO] default - GET localhost /api/v1/notes/all Thu Aug 07 2025 12:03:38 GMT+0530 (India Standard Time)
+[2025-08-07T12:03:47.033] [INFO] default - POST localhost /api/v1/collab/leaveRoom Thu Aug 07 2025 12:03:47 GMT+0530 (India Standard Time)
+[2025-08-07T12:03:47.179] [INFO] default - New Socker Client  MwGaC3hzePNlA5oKAAAN
+[2025-08-07T12:03:47.195] [INFO] default - GET localhost /api/v1/notes/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:03:47 GMT+0530 (India Standard Time)
+[2025-08-07T12:03:47.199] [INFO] default - GET localhost /api/v1/collab/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:03:47 GMT+0530 (India Standard Time)
+[2025-08-07T12:03:47.199] [INFO] default - iD1nyTgIu6EVuQWIJtKOh joined in 705d0443-28f3-4508-a362-3189891210e0
+[2025-08-07T12:03:47.200] [INFO] default - GET localhost /api/v1/notes/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:03:47 GMT+0530 (India Standard Time)
+[2025-08-07T12:03:47.203] [INFO] default - GET localhost /api/v1/collab/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:03:47 GMT+0530 (India Standard Time)
+[2025-08-07T12:03:47.303] [INFO] default - iD1nyTgIu6EVuQWIJtKOh joined in 705d0443-28f3-4508-a362-3189891210e0
+[2025-08-07T12:03:51.182] [INFO] default - GET localhost /api/v1/notes/all Thu Aug 07 2025 12:03:51 GMT+0530 (India Standard Time)
+[2025-08-07T12:03:51.188] [INFO] default - GET localhost /api/v1/notes/all Thu Aug 07 2025 12:03:51 GMT+0530 (India Standard Time)
+[2025-08-07T12:03:54.185] [INFO] default - GET localhost /api/v1/notes/all Thu Aug 07 2025 12:03:54 GMT+0530 (India Standard Time)
+[2025-08-07T12:03:54.195] [INFO] default - GET localhost /api/v1/notes/all Thu Aug 07 2025 12:03:54 GMT+0530 (India Standard Time)
+[2025-08-07T12:04:00.340] [INFO] default - New Socker Client  F7QwBOoQrJzm6x-mAAAP
+[2025-08-07T12:04:00.353] [INFO] default - GET localhost /api/v1/notes/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:04:00 GMT+0530 (India Standard Time)
+[2025-08-07T12:04:00.357] [INFO] default - GET localhost /api/v1/collab/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:04:00 GMT+0530 (India Standard Time)
+[2025-08-07T12:04:00.359] [INFO] default - iD1nyTgIu6EVuQWIJtKOh joined in 705d0443-28f3-4508-a362-3189891210e0
+[2025-08-07T12:04:00.360] [INFO] default - GET localhost /api/v1/notes/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:04:00 GMT+0530 (India Standard Time)
+[2025-08-07T12:04:00.362] [INFO] default - GET localhost /api/v1/collab/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:04:00 GMT+0530 (India Standard Time)
+[2025-08-07T12:04:00.461] [INFO] default - iD1nyTgIu6EVuQWIJtKOh joined in 705d0443-28f3-4508-a362-3189891210e0
+[2025-08-07T12:04:02.066] [INFO] default - POST localhost /api/v1/collab/leaveRoom Thu Aug 07 2025 12:04:02 GMT+0530 (India Standard Time)
+[2025-08-07T12:04:02.094] [INFO] default - GET localhost /api/v1/notes/all Thu Aug 07 2025 12:04:02 GMT+0530 (India Standard Time)
+[2025-08-07T12:04:02.102] [INFO] default - GET localhost /api/v1/notes/all Thu Aug 07 2025 12:04:02 GMT+0530 (India Standard Time)
+[2025-08-07T12:04:04.594] [INFO] default - New Socker Client  FHwJnfm-u1FkQaDCAAAR
+[2025-08-07T12:04:04.620] [INFO] default - GET localhost /api/v1/notes/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:04:04 GMT+0530 (India Standard Time)
+[2025-08-07T12:04:04.624] [INFO] default - GET localhost /api/v1/collab/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:04:04 GMT+0530 (India Standard Time)
+[2025-08-07T12:04:04.625] [INFO] default - 6K9y-87pxpP8I0Mvalhzp joined in 705d0443-28f3-4508-a362-3189891210e0
+[2025-08-07T12:04:04.628] [INFO] default - GET localhost /api/v1/notes/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:04:04 GMT+0530 (India Standard Time)
+[2025-08-07T12:04:04.630] [INFO] default - GET localhost /api/v1/collab/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:04:04 GMT+0530 (India Standard Time)
+[2025-08-07T12:04:04.728] [INFO] default - 6K9y-87pxpP8I0Mvalhzp joined in 705d0443-28f3-4508-a362-3189891210e0
+[2025-08-07T12:04:06.018] [INFO] default - POST localhost /api/v1/collab/leaveRoom Thu Aug 07 2025 12:04:06 GMT+0530 (India Standard Time)
+[2025-08-07T12:04:06.054] [INFO] default - GET localhost /api/v1/notes/all Thu Aug 07 2025 12:04:06 GMT+0530 (India Standard Time)
+[2025-08-07T12:04:06.066] [INFO] default - GET localhost /api/v1/notes/all Thu Aug 07 2025 12:04:06 GMT+0530 (India Standard Time)
+[2025-08-07T12:04:07.965] [INFO] default - New Socker Client  HPZ-fRVF-9D3wsCOAAAT
+[2025-08-07T12:04:07.978] [INFO] default - GET localhost /api/v1/notes/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:04:07 GMT+0530 (India Standard Time)
+[2025-08-07T12:04:07.981] [INFO] default - GET localhost /api/v1/collab/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:04:07 GMT+0530 (India Standard Time)
+[2025-08-07T12:04:07.982] [INFO] default - oMcRoa6k0tIOtfcnEIK5g joined in 705d0443-28f3-4508-a362-3189891210e0
+[2025-08-07T12:04:07.984] [INFO] default - GET localhost /api/v1/notes/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:04:07 GMT+0530 (India Standard Time)
+[2025-08-07T12:04:07.986] [INFO] default - GET localhost /api/v1/collab/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:04:07 GMT+0530 (India Standard Time)
+[2025-08-07T12:04:08.086] [INFO] default - oMcRoa6k0tIOtfcnEIK5g joined in 705d0443-28f3-4508-a362-3189891210e0
+[2025-08-07T12:04:10.502] [INFO] default - POST localhost /api/v1/collab/leaveRoom Thu Aug 07 2025 12:04:10 GMT+0530 (India Standard Time)
+[2025-08-07T12:04:10.536] [INFO] default - GET localhost /api/v1/notes/all Thu Aug 07 2025 12:04:10 GMT+0530 (India Standard Time)
+[2025-08-07T12:04:10.544] [INFO] default - GET localhost /api/v1/notes/all Thu Aug 07 2025 12:04:10 GMT+0530 (India Standard Time)
+[2025-08-07T12:04:14.064] [INFO] default - New Socker Client  5PhEmzSDFK9R2q7OAAAV
+[2025-08-07T12:04:14.080] [INFO] default - GET localhost /api/v1/notes/all Thu Aug 07 2025 12:04:14 GMT+0530 (India Standard Time)
+[2025-08-07T12:04:14.084] [INFO] default - GET localhost /api/v1/notes/all Thu Aug 07 2025 12:04:14 GMT+0530 (India Standard Time)
+[2025-08-07T12:04:15.625] [INFO] default - New Socker Client  2_n2fagB7MYSc6maAAAX
+[2025-08-07T12:04:15.640] [INFO] default - GET localhost /api/v1/notes/all Thu Aug 07 2025 12:04:15 GMT+0530 (India Standard Time)
+[2025-08-07T12:04:15.643] [INFO] default - GET localhost /api/v1/notes/all Thu Aug 07 2025 12:04:15 GMT+0530 (India Standard Time)
+[2025-08-07T12:04:16.516] [INFO] default - New Socker Client  -LDOVAW0CaU0BfcRAAAZ
+[2025-08-07T12:04:16.530] [INFO] default - GET localhost /api/v1/notes/all Thu Aug 07 2025 12:04:16 GMT+0530 (India Standard Time)
+[2025-08-07T12:04:16.534] [INFO] default - GET localhost /api/v1/notes/all Thu Aug 07 2025 12:04:16 GMT+0530 (India Standard Time)
+[2025-08-07T12:04:24.906] [INFO] default - New Socker Client  5RmR7yvqTzF9O4OfAAAb
+[2025-08-07T12:04:24.921] [INFO] default - GET localhost /api/v1/notes/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:04:24 GMT+0530 (India Standard Time)
+[2025-08-07T12:04:24.924] [INFO] default - GET localhost /api/v1/collab/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:04:24 GMT+0530 (India Standard Time)
+[2025-08-07T12:04:24.924] [INFO] default - iD1nyTgIu6EVuQWIJtKOh joined in 705d0443-28f3-4508-a362-3189891210e0
+[2025-08-07T12:04:24.927] [INFO] default - GET localhost /api/v1/notes/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:04:24 GMT+0530 (India Standard Time)
+[2025-08-07T12:04:24.930] [INFO] default - GET localhost /api/v1/collab/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:04:24 GMT+0530 (India Standard Time)
+[2025-08-07T12:04:25.029] [INFO] default - iD1nyTgIu6EVuQWIJtKOh joined in 705d0443-28f3-4508-a362-3189891210e0
+[2025-08-07T12:04:27.401] [INFO] default - New Socker Client  0z4aaydhqrGWMJfjAAAd
+[2025-08-07T12:04:27.422] [INFO] default - GET localhost /api/v1/notes/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:04:27 GMT+0530 (India Standard Time)
+[2025-08-07T12:04:27.426] [INFO] default - GET localhost /api/v1/collab/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:04:27 GMT+0530 (India Standard Time)
+[2025-08-07T12:04:27.426] [INFO] default - 6K9y-87pxpP8I0Mvalhzp joined in 705d0443-28f3-4508-a362-3189891210e0
+[2025-08-07T12:04:27.429] [INFO] default - GET localhost /api/v1/notes/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:04:27 GMT+0530 (India Standard Time)
+[2025-08-07T12:04:27.431] [INFO] default - GET localhost /api/v1/collab/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:04:27 GMT+0530 (India Standard Time)
+[2025-08-07T12:04:27.435] [INFO] default - GET localhost /api/v1/collab/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:04:27 GMT+0530 (India Standard Time)
+[2025-08-07T12:04:27.529] [INFO] default - 6K9y-87pxpP8I0Mvalhzp joined in 705d0443-28f3-4508-a362-3189891210e0
+[2025-08-07T12:04:32.592] [INFO] default - POST localhost /api/v1/collab/leaveRoom Thu Aug 07 2025 12:04:32 GMT+0530 (India Standard Time)
+[2025-08-07T12:04:32.621] [INFO] default - GET localhost /api/v1/notes/all Thu Aug 07 2025 12:04:32 GMT+0530 (India Standard Time)
+[2025-08-07T12:04:32.628] [INFO] default - GET localhost /api/v1/notes/all Thu Aug 07 2025 12:04:32 GMT+0530 (India Standard Time)
+[2025-08-07T12:05:19.469] [INFO] default - POST localhost /api/v1/collab/leaveRoom Thu Aug 07 2025 12:05:19 GMT+0530 (India Standard Time)
+[2025-08-07T12:05:19.650] [INFO] default - New Socker Client  L6XIKFnj3HS1nP4bAAAf
+[2025-08-07T12:05:19.665] [INFO] default - GET localhost /api/v1/notes/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:05:19 GMT+0530 (India Standard Time)
+[2025-08-07T12:05:19.668] [INFO] default - GET localhost /api/v1/collab/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:05:19 GMT+0530 (India Standard Time)
+[2025-08-07T12:05:19.669] [INFO] default - iD1nyTgIu6EVuQWIJtKOh joined in 705d0443-28f3-4508-a362-3189891210e0
+[2025-08-07T12:05:19.672] [INFO] default - GET localhost /api/v1/collab/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:05:19 GMT+0530 (India Standard Time)
+[2025-08-07T12:05:19.684] [INFO] default - GET localhost /api/v1/notes/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:05:19 GMT+0530 (India Standard Time)
+[2025-08-07T12:05:19.773] [INFO] default - iD1nyTgIu6EVuQWIJtKOh joined in 705d0443-28f3-4508-a362-3189891210e0
+[2025-08-07T12:05:29.087] [INFO] default - New Socker Client  TSt6DClMbosR04hiAAAh
+[2025-08-07T12:05:29.110] [INFO] default - GET localhost /api/v1/notes/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:05:29 GMT+0530 (India Standard Time)
+[2025-08-07T12:05:29.113] [INFO] default - GET localhost /api/v1/collab/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:05:29 GMT+0530 (India Standard Time)
+[2025-08-07T12:05:29.116] [INFO] default - GET localhost /api/v1/notes/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:05:29 GMT+0530 (India Standard Time)
+[2025-08-07T12:05:29.118] [INFO] default - 6K9y-87pxpP8I0Mvalhzp joined in 705d0443-28f3-4508-a362-3189891210e0
+[2025-08-07T12:05:29.120] [INFO] default - GET localhost /api/v1/collab/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:05:29 GMT+0530 (India Standard Time)
+[2025-08-07T12:05:29.126] [INFO] default - GET localhost /api/v1/collab/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:05:29 GMT+0530 (India Standard Time)
+[2025-08-07T12:05:29.137] [INFO] default - 6K9y-87pxpP8I0Mvalhzp joined in 705d0443-28f3-4508-a362-3189891210e0
+[2025-08-07T12:05:36.446] [INFO] default - POST localhost /api/v1/collab/leaveRoom Thu Aug 07 2025 12:05:36 GMT+0530 (India Standard Time)
+[2025-08-07T12:05:36.472] [INFO] default - GET localhost /api/v1/notes/all Thu Aug 07 2025 12:05:36 GMT+0530 (India Standard Time)
+[2025-08-07T12:05:36.482] [INFO] default - GET localhost /api/v1/notes/all Thu Aug 07 2025 12:05:36 GMT+0530 (India Standard Time)
+[2025-08-07T12:05:48.507] [INFO] default - POST localhost /api/v1/collab/leaveRoom Thu Aug 07 2025 12:05:48 GMT+0530 (India Standard Time)
+[2025-08-07T12:05:48.899] [INFO] default - New Socker Client  MeSBMnMqnaz_9iOiAAAj
+[2025-08-07T12:05:48.926] [INFO] default - GET localhost /api/v1/notes/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:05:48 GMT+0530 (India Standard Time)
+[2025-08-07T12:05:48.929] [INFO] default - GET localhost /api/v1/collab/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:05:48 GMT+0530 (India Standard Time)
+[2025-08-07T12:05:48.930] [INFO] default - iD1nyTgIu6EVuQWIJtKOh joined in 705d0443-28f3-4508-a362-3189891210e0
+[2025-08-07T12:05:48.932] [INFO] default - GET localhost /api/v1/collab/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:05:48 GMT+0530 (India Standard Time)
+[2025-08-07T12:05:48.936] [INFO] default - iD1nyTgIu6EVuQWIJtKOh joined in 705d0443-28f3-4508-a362-3189891210e0
+[2025-08-07T12:05:48.944] [INFO] default - GET localhost /api/v1/notes/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:05:48 GMT+0530 (India Standard Time)
+[2025-08-07T12:05:55.135] [INFO] default - New Socker Client  HSboCEXHRy9altUrAAAl
+[2025-08-07T12:05:55.184] [INFO] default - GET localhost /api/v1/notes/all Thu Aug 07 2025 12:05:55 GMT+0530 (India Standard Time)
+[2025-08-07T12:05:55.188] [INFO] default - GET localhost /api/v1/notes/all Thu Aug 07 2025 12:05:55 GMT+0530 (India Standard Time)
+[2025-08-07T12:06:00.455] [INFO] default - New Socker Client  Q_awbnnz5cdmlxyyAAAn
+[2025-08-07T12:06:00.529] [INFO] default - GET localhost /api/v1/notes/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:06:00 GMT+0530 (India Standard Time)
+[2025-08-07T12:06:00.533] [INFO] default - GET localhost /api/v1/collab/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:06:00 GMT+0530 (India Standard Time)
+[2025-08-07T12:06:00.533] [INFO] default - 6K9y-87pxpP8I0Mvalhzp joined in 705d0443-28f3-4508-a362-3189891210e0
+[2025-08-07T12:06:00.537] [INFO] default - GET localhost /api/v1/notes/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:06:00 GMT+0530 (India Standard Time)
+[2025-08-07T12:06:00.539] [INFO] default - GET localhost /api/v1/collab/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:06:00 GMT+0530 (India Standard Time)
+[2025-08-07T12:06:00.550] [INFO] default - GET localhost /api/v1/collab/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:06:00 GMT+0530 (India Standard Time)
+[2025-08-07T12:06:00.619] [INFO] default - 6K9y-87pxpP8I0Mvalhzp joined in 705d0443-28f3-4508-a362-3189891210e0
+[2025-08-07T12:06:19.220] [INFO] default - POST localhost /api/v1/collab/leaveRoom Thu Aug 07 2025 12:06:19 GMT+0530 (India Standard Time)
+[2025-08-07T12:06:19.289] [INFO] default - GET localhost /api/v1/notes/all Thu Aug 07 2025 12:06:19 GMT+0530 (India Standard Time)
+[2025-08-07T12:06:19.321] [INFO] default - GET localhost /api/v1/notes/all Thu Aug 07 2025 12:06:19 GMT+0530 (India Standard Time)
+[2025-08-07T12:06:45.356] [INFO] default - POST localhost /api/v1/collab/leaveRoom Thu Aug 07 2025 12:06:45 GMT+0530 (India Standard Time)
+[2025-08-07T12:06:45.810] [INFO] default - New Socker Client  MujmrqgFvwpu8YbgAAAp
+[2025-08-07T12:06:45.848] [INFO] default - GET localhost /api/v1/notes/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:06:45 GMT+0530 (India Standard Time)
+[2025-08-07T12:06:45.853] [INFO] default - GET localhost /api/v1/collab/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:06:45 GMT+0530 (India Standard Time)
+[2025-08-07T12:06:45.856] [INFO] default - iD1nyTgIu6EVuQWIJtKOh joined in 705d0443-28f3-4508-a362-3189891210e0
+[2025-08-07T12:06:45.859] [INFO] default - GET localhost /api/v1/collab/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:06:45 GMT+0530 (India Standard Time)
+[2025-08-07T12:06:45.866] [INFO] default - iD1nyTgIu6EVuQWIJtKOh joined in 705d0443-28f3-4508-a362-3189891210e0
+[2025-08-07T12:06:45.877] [INFO] default - GET localhost /api/v1/notes/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:06:45 GMT+0530 (India Standard Time)
+[2025-08-07T12:06:52.472] [INFO] default - New Socker Client  Kz3FiPpYPh0Dy_7jAAAr
+[2025-08-07T12:06:52.546] [INFO] default - GET localhost /api/v1/notes/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:06:52 GMT+0530 (India Standard Time)
+[2025-08-07T12:06:52.551] [INFO] default - GET localhost /api/v1/collab/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:06:52 GMT+0530 (India Standard Time)
+[2025-08-07T12:06:52.552] [INFO] default - 6K9y-87pxpP8I0Mvalhzp joined in 705d0443-28f3-4508-a362-3189891210e0
+[2025-08-07T12:06:52.557] [INFO] default - GET localhost /api/v1/notes/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:06:52 GMT+0530 (India Standard Time)
+[2025-08-07T12:06:52.560] [INFO] default - GET localhost /api/v1/collab/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:06:52 GMT+0530 (India Standard Time)
+[2025-08-07T12:06:52.567] [INFO] default - GET localhost /api/v1/collab/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:06:52 GMT+0530 (India Standard Time)
+[2025-08-07T12:06:52.620] [INFO] default - 6K9y-87pxpP8I0Mvalhzp joined in 705d0443-28f3-4508-a362-3189891210e0
+[2025-08-07T12:06:55.101] [INFO] default - POST localhost /api/v1/collab/leaveRoom Thu Aug 07 2025 12:06:55 GMT+0530 (India Standard Time)
+[2025-08-07T12:06:55.590] [INFO] default - New Socker Client  Txb7aJpZyULshadeAAAt
+[2025-08-07T12:06:58.712] [INFO] default - New Socker Client  blLLyXL22U74ECy6AAAv
+[2025-08-07T12:06:58.778] [INFO] default - GET localhost /api/v1/notes/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:06:58 GMT+0530 (India Standard Time)
+[2025-08-07T12:06:58.781] [INFO] default - GET localhost /api/v1/collab/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:06:58 GMT+0530 (India Standard Time)
+[2025-08-07T12:06:58.783] [INFO] default - 6K9y-87pxpP8I0Mvalhzp joined in 705d0443-28f3-4508-a362-3189891210e0
+[2025-08-07T12:06:58.787] [INFO] default - GET localhost /api/v1/notes/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:06:58 GMT+0530 (India Standard Time)
+[2025-08-07T12:06:58.788] [INFO] default - GET localhost /api/v1/collab/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:06:58 GMT+0530 (India Standard Time)
+[2025-08-07T12:06:58.863] [INFO] default - 6K9y-87pxpP8I0Mvalhzp joined in 705d0443-28f3-4508-a362-3189891210e0
+[2025-08-07T12:07:00.701] [INFO] default - POST localhost /api/v1/collab/leaveRoom Thu Aug 07 2025 12:07:00 GMT+0530 (India Standard Time)
+[2025-08-07T12:07:00.799] [INFO] default - GET localhost /api/v1/notes/all Thu Aug 07 2025 12:07:00 GMT+0530 (India Standard Time)
+[2025-08-07T12:07:00.818] [INFO] default - GET localhost /api/v1/notes/all Thu Aug 07 2025 12:07:00 GMT+0530 (India Standard Time)
+[2025-08-07T12:07:03.267] [INFO] default - New Socker Client  MpSDqJwTVGQ6Je0IAAAx
+[2025-08-07T12:07:03.333] [INFO] default - GET localhost /api/v1/notes/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:07:03 GMT+0530 (India Standard Time)
+[2025-08-07T12:07:03.336] [INFO] default - GET localhost /api/v1/collab/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:07:03 GMT+0530 (India Standard Time)
+[2025-08-07T12:07:03.338] [INFO] default - 6K9y-87pxpP8I0Mvalhzp joined in 705d0443-28f3-4508-a362-3189891210e0
+[2025-08-07T12:07:03.340] [INFO] default - GET localhost /api/v1/notes/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:07:03 GMT+0530 (India Standard Time)
+[2025-08-07T12:07:03.342] [INFO] default - GET localhost /api/v1/collab/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:07:03 GMT+0530 (India Standard Time)
+[2025-08-07T12:07:03.416] [INFO] default - 6K9y-87pxpP8I0Mvalhzp joined in 705d0443-28f3-4508-a362-3189891210e0
+[2025-08-07T12:07:05.169] [INFO] default - POST localhost /api/v1/collab/leaveRoom Thu Aug 07 2025 12:07:05 GMT+0530 (India Standard Time)
+[2025-08-07T12:07:05.628] [INFO] default - New Socker Client  ZWfnBlvcDxC02ukoAAAz
+[2025-08-07T12:07:05.703] [INFO] default - GET localhost /api/v1/notes/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:07:05 GMT+0530 (India Standard Time)
+[2025-08-07T12:07:05.706] [INFO] default - GET localhost /api/v1/collab/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:07:05 GMT+0530 (India Standard Time)
+[2025-08-07T12:07:05.707] [INFO] default - 6K9y-87pxpP8I0Mvalhzp joined in 705d0443-28f3-4508-a362-3189891210e0
+[2025-08-07T12:07:05.708] [INFO] default - GET localhost /api/v1/notes/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:07:05 GMT+0530 (India Standard Time)
+[2025-08-07T12:07:05.711] [INFO] default - GET localhost /api/v1/collab/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:07:05 GMT+0530 (India Standard Time)
+[2025-08-07T12:07:05.786] [INFO] default - 6K9y-87pxpP8I0Mvalhzp joined in 705d0443-28f3-4508-a362-3189891210e0
+[2025-08-07T12:07:10.160] [INFO] default - POST localhost /api/v1/collab/leaveRoom Thu Aug 07 2025 12:07:10 GMT+0530 (India Standard Time)
+[2025-08-07T12:07:10.642] [INFO] default - New Socker Client  UqaW8IdfmTmJdNa1AAA1
+[2025-08-07T12:07:14.700] [INFO] default - New Socker Client  caHwFwNUM6J79Od1AAA3
+[2025-08-07T12:07:14.771] [INFO] default - GET localhost /api/v1/notes/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:07:14 GMT+0530 (India Standard Time)
+[2025-08-07T12:07:14.774] [INFO] default - 6K9y-87pxpP8I0Mvalhzp joined in 705d0443-28f3-4508-a362-3189891210e0
+[2025-08-07T12:07:14.776] [INFO] default - GET localhost /api/v1/collab/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:07:14 GMT+0530 (India Standard Time)
+[2025-08-07T12:07:14.777] [INFO] default - GET localhost /api/v1/notes/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:07:14 GMT+0530 (India Standard Time)
+[2025-08-07T12:07:14.783] [INFO] default - GET localhost /api/v1/collab/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:07:14 GMT+0530 (India Standard Time)
+[2025-08-07T12:07:14.854] [INFO] default - 6K9y-87pxpP8I0Mvalhzp joined in 705d0443-28f3-4508-a362-3189891210e0
+[2025-08-07T12:07:22.585] [INFO] default - POST localhost /api/v1/collab/leaveRoom Thu Aug 07 2025 12:07:22 GMT+0530 (India Standard Time)
+[2025-08-07T12:07:22.659] [INFO] default - GET localhost /api/v1/notes/all Thu Aug 07 2025 12:07:22 GMT+0530 (India Standard Time)
+[2025-08-07T12:07:22.667] [INFO] default - GET localhost /api/v1/notes/all Thu Aug 07 2025 12:07:22 GMT+0530 (India Standard Time)
+[2025-08-07T12:09:38.755] [INFO] default - POST localhost /api/v1/collab/leaveRoom Thu Aug 07 2025 12:09:38 GMT+0530 (India Standard Time)
+[2025-08-07T12:09:38.803] [INFO] default - GET localhost /api/v1/notes/all Thu Aug 07 2025 12:09:38 GMT+0530 (India Standard Time)
+[2025-08-07T12:09:38.839] [INFO] default - GET localhost /api/v1/notes/all Thu Aug 07 2025 12:09:38 GMT+0530 (India Standard Time)
+[2025-08-07T12:09:42.004] [INFO] default - New Socker Client  CkL9M-yo0vvyHWbQAAA5
+[2025-08-07T12:09:42.046] [INFO] default - GET localhost /api/v1/notes/all Thu Aug 07 2025 12:09:42 GMT+0530 (India Standard Time)
+[2025-08-07T12:09:42.051] [INFO] default - GET localhost /api/v1/notes/all Thu Aug 07 2025 12:09:42 GMT+0530 (India Standard Time)
+[2025-08-07T12:09:42.817] [INFO] default - New Socker Client  _1PPHf3OXvAEIhfDAAA7
+[2025-08-07T12:09:42.840] [INFO] default - GET localhost /api/v1/notes/all Thu Aug 07 2025 12:09:42 GMT+0530 (India Standard Time)
+[2025-08-07T12:09:42.843] [INFO] default - GET localhost /api/v1/notes/all Thu Aug 07 2025 12:09:42 GMT+0530 (India Standard Time)
+[2025-08-07T12:09:44.678] [INFO] default - New Socker Client  4WMeNfp-G-nnI_heAAA9
+[2025-08-07T12:09:44.698] [INFO] default - GET localhost /api/v1/notes/all Thu Aug 07 2025 12:09:44 GMT+0530 (India Standard Time)
+[2025-08-07T12:09:44.703] [INFO] default - GET localhost /api/v1/notes/all Thu Aug 07 2025 12:09:44 GMT+0530 (India Standard Time)
+[2025-08-07T12:09:48.848] [INFO] default - New Socker Client  s-EQfpVaR9bzMqCiAAA_
+[2025-08-07T12:09:48.859] [INFO] default - GET localhost /api/v1/notes/all Thu Aug 07 2025 12:09:48 GMT+0530 (India Standard Time)
+[2025-08-07T12:09:48.863] [INFO] default - GET localhost /api/v1/notes/all Thu Aug 07 2025 12:09:48 GMT+0530 (India Standard Time)
+[2025-08-07T12:09:49.652] [INFO] default - New Socker Client  po4QouWUvVSOImh0AABB
+[2025-08-07T12:09:49.665] [INFO] default - GET localhost /api/v1/notes/all Thu Aug 07 2025 12:09:49 GMT+0530 (India Standard Time)
+[2025-08-07T12:09:49.669] [INFO] default - GET localhost /api/v1/notes/all Thu Aug 07 2025 12:09:49 GMT+0530 (India Standard Time)
+[2025-08-07T12:09:50.778] [INFO] default - New Socker Client  YwRcxDUS-CW9w8NlAABD
+[2025-08-07T12:09:50.803] [INFO] default - GET localhost /api/v1/notes/all Thu Aug 07 2025 12:09:50 GMT+0530 (India Standard Time)
+[2025-08-07T12:09:50.806] [INFO] default - GET localhost /api/v1/notes/all Thu Aug 07 2025 12:09:50 GMT+0530 (India Standard Time)
+[2025-08-07T12:09:51.601] [INFO] default - New Socker Client  yLxI10yqgQb4Iaz0AABF
+[2025-08-07T12:09:51.623] [INFO] default - GET localhost /api/v1/notes/all Thu Aug 07 2025 12:09:51 GMT+0530 (India Standard Time)
+[2025-08-07T12:09:51.627] [INFO] default - GET localhost /api/v1/notes/all Thu Aug 07 2025 12:09:51 GMT+0530 (India Standard Time)
+[2025-08-07T12:09:52.824] [INFO] default - New Socker Client  2xicIcrTmHSr3R25AABH
+[2025-08-07T12:09:52.835] [INFO] default - GET localhost /api/v1/notes/all Thu Aug 07 2025 12:09:52 GMT+0530 (India Standard Time)
+[2025-08-07T12:09:52.839] [INFO] default - GET localhost /api/v1/notes/all Thu Aug 07 2025 12:09:52 GMT+0530 (India Standard Time)
+[2025-08-07T12:09:56.686] [INFO] default - New Socker Client  eAeMwHRg9v_NcdcTAABJ
+[2025-08-07T12:09:56.703] [INFO] default - iD1nyTgIu6EVuQWIJtKOh joined in 705d0443-28f3-4508-a362-3189891210e0
+[2025-08-07T12:09:56.705] [INFO] default - GET localhost /api/v1/notes/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:09:56 GMT+0530 (India Standard Time)
+[2025-08-07T12:09:56.708] [INFO] default - POST localhost /api/v1/collab/leaveRoom Thu Aug 07 2025 12:09:56 GMT+0530 (India Standard Time)
+[2025-08-07T12:09:56.709] [INFO] default - GET localhost /api/v1/collab/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:09:56 GMT+0530 (India Standard Time)
+[2025-08-07T12:09:56.711] [INFO] default - GET localhost /api/v1/notes/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:09:56 GMT+0530 (India Standard Time)
+[2025-08-07T12:09:56.712] [INFO] default - GET localhost /api/v1/collab/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:09:56 GMT+0530 (India Standard Time)
+[2025-08-07T12:09:56.808] [INFO] default - iD1nyTgIu6EVuQWIJtKOh joined in 705d0443-28f3-4508-a362-3189891210e0
+[2025-08-07T12:10:00.690] [INFO] default - POST localhost /api/v1/collab/leaveRoom Thu Aug 07 2025 12:10:00 GMT+0530 (India Standard Time)
+[2025-08-07T12:10:00.811] [INFO] default - New Socker Client  JLYM9Qs_BOsNbDROAABL
+[2025-08-07T12:10:00.823] [INFO] default - GET localhost /api/v1/notes/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:10:00 GMT+0530 (India Standard Time)
+[2025-08-07T12:10:00.825] [INFO] default - GET localhost /api/v1/collab/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:10:00 GMT+0530 (India Standard Time)
+[2025-08-07T12:10:00.827] [INFO] default - POST localhost /api/v1/collab/leaveRoom Thu Aug 07 2025 12:10:00 GMT+0530 (India Standard Time)
+[2025-08-07T12:10:00.827] [INFO] default - iD1nyTgIu6EVuQWIJtKOh joined in 705d0443-28f3-4508-a362-3189891210e0
+[2025-08-07T12:10:00.829] [INFO] default - GET localhost /api/v1/notes/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:10:00 GMT+0530 (India Standard Time)
+[2025-08-07T12:10:00.830] [INFO] default - GET localhost /api/v1/collab/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:10:00 GMT+0530 (India Standard Time)
+[2025-08-07T12:10:00.831] [INFO] default - iD1nyTgIu6EVuQWIJtKOh joined in 705d0443-28f3-4508-a362-3189891210e0
+[2025-08-07T12:10:05.489] [INFO] default - New Socker Client  aW0Qy-gnx5Vg7D8xAABN
+[2025-08-07T12:10:05.512] [INFO] default - GET localhost /api/v1/notes/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:10:05 GMT+0530 (India Standard Time)
+[2025-08-07T12:10:05.516] [INFO] default - GET localhost /api/v1/collab/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:10:05 GMT+0530 (India Standard Time)
+[2025-08-07T12:10:05.516] [INFO] default - 6K9y-87pxpP8I0Mvalhzp joined in 705d0443-28f3-4508-a362-3189891210e0
+[2025-08-07T12:10:05.517] [INFO] default - GET localhost /api/v1/notes/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:10:05 GMT+0530 (India Standard Time)
+[2025-08-07T12:10:05.520] [INFO] default - POST localhost /api/v1/collab/leaveRoom Thu Aug 07 2025 12:10:05 GMT+0530 (India Standard Time)
+[2025-08-07T12:10:05.522] [INFO] default - GET localhost /api/v1/collab/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:10:05 GMT+0530 (India Standard Time)
+[2025-08-07T12:10:05.524] [INFO] default - GET localhost /api/v1/collab/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:10:05 GMT+0530 (India Standard Time)
+[2025-08-07T12:10:05.533] [INFO] default - 6K9y-87pxpP8I0Mvalhzp joined in 705d0443-28f3-4508-a362-3189891210e0
+[2025-08-07T12:10:22.082] [INFO] default - POST localhost /api/v1/collab/leaveRoom Thu Aug 07 2025 12:10:22 GMT+0530 (India Standard Time)
+[2025-08-07T12:10:22.278] [INFO] default - New Socker Client  QR1V5BY9LBRJJwo0AABP
+[2025-08-07T12:10:22.298] [INFO] default - GET localhost /api/v1/notes/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:10:22 GMT+0530 (India Standard Time)
+[2025-08-07T12:10:22.301] [INFO] default - GET localhost /api/v1/collab/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:10:22 GMT+0530 (India Standard Time)
+[2025-08-07T12:10:22.302] [INFO] default - 6K9y-87pxpP8I0Mvalhzp joined in 705d0443-28f3-4508-a362-3189891210e0
+[2025-08-07T12:10:22.303] [INFO] default - POST localhost /api/v1/collab/leaveRoom Thu Aug 07 2025 12:10:22 GMT+0530 (India Standard Time)
+[2025-08-07T12:10:22.305] [INFO] default - GET localhost /api/v1/collab/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:10:22 GMT+0530 (India Standard Time)
+[2025-08-07T12:10:22.314] [INFO] default - GET localhost /api/v1/notes/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:10:22 GMT+0530 (India Standard Time)
+[2025-08-07T12:10:22.326] [INFO] default - 6K9y-87pxpP8I0Mvalhzp joined in 705d0443-28f3-4508-a362-3189891210e0
+[2025-08-07T12:10:28.725] [INFO] default - POST localhost /api/v1/collab/leaveRoom Thu Aug 07 2025 12:10:28 GMT+0530 (India Standard Time)
+[2025-08-07T12:10:28.735] [INFO] default - GET localhost /api/v1/collab/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:10:28 GMT+0530 (India Standard Time)
+[2025-08-07T12:10:28.903] [INFO] default - New Socker Client  DYPIkxUKfaPAX9osAABR
+[2025-08-07T12:10:28.917] [INFO] default - GET localhost /api/v1/notes/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:10:28 GMT+0530 (India Standard Time)
+[2025-08-07T12:10:28.921] [INFO] default - GET localhost /api/v1/collab/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:10:28 GMT+0530 (India Standard Time)
+[2025-08-07T12:10:28.922] [INFO] default - POST localhost /api/v1/collab/leaveRoom Thu Aug 07 2025 12:10:28 GMT+0530 (India Standard Time)
+[2025-08-07T12:10:28.922] [INFO] default - iD1nyTgIu6EVuQWIJtKOh joined in 705d0443-28f3-4508-a362-3189891210e0
+[2025-08-07T12:10:28.925] [INFO] default - GET localhost /api/v1/notes/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:10:28 GMT+0530 (India Standard Time)
+[2025-08-07T12:10:28.926] [INFO] default - GET localhost /api/v1/collab/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:10:28 GMT+0530 (India Standard Time)
+[2025-08-07T12:10:29.035] [INFO] default - iD1nyTgIu6EVuQWIJtKOh joined in 705d0443-28f3-4508-a362-3189891210e0
+[2025-08-07T12:10:35.674] [INFO] default - New Socker Client  dEHhcD8BERhd_b63AABT
+[2025-08-07T12:10:35.685] [INFO] default - GET localhost /api/v1/notes/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:10:35 GMT+0530 (India Standard Time)
+[2025-08-07T12:10:35.687] [INFO] default - GET localhost /api/v1/collab/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:10:35 GMT+0530 (India Standard Time)
+[2025-08-07T12:10:35.689] [INFO] default - oMcRoa6k0tIOtfcnEIK5g joined in 705d0443-28f3-4508-a362-3189891210e0
+[2025-08-07T12:10:35.694] [INFO] default - oMcRoa6k0tIOtfcnEIK5g joined in 705d0443-28f3-4508-a362-3189891210e0
+[2025-08-07T12:10:35.694] [INFO] default - GET localhost /api/v1/collab/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:10:35 GMT+0530 (India Standard Time)
+[2025-08-07T12:10:35.695] [INFO] default - GET localhost /api/v1/notes/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:10:35 GMT+0530 (India Standard Time)
+[2025-08-07T12:10:35.697] [INFO] default - POST localhost /api/v1/collab/leaveRoom Thu Aug 07 2025 12:10:35 GMT+0530 (India Standard Time)
+[2025-08-07T12:10:35.702] [INFO] default - GET localhost /api/v1/collab/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:10:35 GMT+0530 (India Standard Time)
+[2025-08-07T12:10:50.872] [INFO] default - 705d0443-28f3-4508-a362-3189891210e0 content updated Run JavaScript Everywhere
+
+Node.js® is a free, open-source, cross-platform JavaScript runtime environment that lets developers create servers, web apps, command line tools and scripts.
+
+Introduction to Node.js
+Node.js is an open-source and cross-platform JavaScript runtime environment. It is a popular tool for almost any kind of project!
+
+Node.js runs the V8 JavaScript engine, the core of Google Chrome, outside of the browser. This allows Node.js to be very performant.
+
+A Node.js app runs in a single process, without creating a new thread for every request. Node.js provides a set of asynchronous I/O primitives in its standard library that prevent JavaScript code from blocking. In addition, libraries in Node.js are generally written using non-blocking paradigms. Accordingly, blocking behavior is the exception rather than the norm in Node.js.
+
+This allows Node.js to handle thousands of concurrent connections with a single server without introducing the burden of managing thread concurrency, which could be a significant source of bugs.
+
+[2025-08-07T12:10:50.994] [INFO] default - 705d0443-28f3-4508-a362-3189891210e0 content updated Run JavaScript Everywhere
+
+Node.js® is a free, open-source, cross-platform JavaScript runtime environment that lets developers create servers, web apps, command line tools and scripts.
+
+Introduction to Node.js
+Node.js is an open-source and cross-platform JavaScript runtime environment. It is a popular tool for almost any kind of project!
+
+Node.js runs the V8 JavaScript engine, the core of Google Chrome, outside of the browser. This allows Node.js to be very performant.
+
+A Node.js app runs in a single process, without creating a new thread for every request. Node.js provides a set of asynchronous I/O primitives in its standard library that prevent JavaScript code from blocking. In addition, libraries in Node.js are generally written using non-blocking paradigms. Accordingly, blocking behavior is the exception rather than the norm in Node.js.
+
+This allows Node.js to handle thousands of concurrent connections with a single server without introducing the burden of managing thread concurrency, which could be a significant source of bugs.
+
+
+[2025-08-07T12:10:51.508] [INFO] default - 705d0443-28f3-4508-a362-3189891210e0 content updated Run JavaScript Everywhere
+
+Node.js® is a free, open-source, cross-platform JavaScript runtime environment that lets developers create servers, web apps, command line tools and scripts.
+
+Introduction to Node.js
+Node.js is an open-source and cross-platform JavaScript runtime environment. It is a popular tool for almost any kind of project!
+
+Node.js runs the V8 JavaScript engine, the core of Google Chrome, outside of the browser. This allows Node.js to be very performant.
+
+A Node.js app runs in a single process, without creating a new thread for every request. Node.js provides a set of asynchronous I/O primitives in its standard library that prevent JavaScript code from blocking. In addition, libraries in Node.js are generally written using non-blocking paradigms. Accordingly, blocking behavior is the exception rather than the norm in Node.js.
+
+This allows Node.js to handle thousands of concurrent connections with a single server without introducing the burden of managing thread concurrency, which could be a significant source of bugs.
+
+Node.js has a unique advantage because millions of frontend developers that write JavaScript for the browser are now able to write the server-side code in addition to the client-side code without the need to learn a completely different language.
+[2025-08-07T12:10:58.720] [INFO] default - POST localhost /api/v1/collab/leaveRoom Thu Aug 07 2025 12:10:58 GMT+0530 (India Standard Time)
+[2025-08-07T12:10:58.750] [INFO] default - POST localhost /api/v1/collab/leaveRoom Thu Aug 07 2025 12:10:58 GMT+0530 (India Standard Time)
+[2025-08-07T12:10:58.752] [INFO] default - GET localhost /api/v1/notes/all Thu Aug 07 2025 12:10:58 GMT+0530 (India Standard Time)
+[2025-08-07T12:10:58.760] [INFO] default - GET localhost /api/v1/notes/all Thu Aug 07 2025 12:10:58 GMT+0530 (India Standard Time)
+[2025-08-07T12:11:09.597] [INFO] default - POST localhost /api/v1/collab/leaveRoom Thu Aug 07 2025 12:11:09 GMT+0530 (India Standard Time)
+[2025-08-07T12:11:09.631] [INFO] default - POST localhost /api/v1/collab/leaveRoom Thu Aug 07 2025 12:11:09 GMT+0530 (India Standard Time)
+[2025-08-07T12:11:09.633] [INFO] default - GET localhost /api/v1/notes/all Thu Aug 07 2025 12:11:09 GMT+0530 (India Standard Time)
+[2025-08-07T12:11:09.672] [INFO] default - GET localhost /api/v1/notes/all Thu Aug 07 2025 12:11:09 GMT+0530 (India Standard Time)
+[2025-08-07T12:11:32.702] [INFO] default - New Socker Client  A-69zzJqPIdMfyffAABV
+[2025-08-07T12:11:32.719] [INFO] default - GET localhost /api/v1/notes/all Thu Aug 07 2025 12:11:32 GMT+0530 (India Standard Time)
+[2025-08-07T12:11:32.733] [INFO] default - GET localhost /api/v1/notes/all Thu Aug 07 2025 12:11:32 GMT+0530 (India Standard Time)
+[2025-08-07T12:11:33.958] [INFO] default - New Socker Client  xNOgDEB-6kWTtFHPAABX
+[2025-08-07T12:11:33.975] [INFO] default - GET localhost /api/v1/notes/all Thu Aug 07 2025 12:11:33 GMT+0530 (India Standard Time)
+[2025-08-07T12:11:33.979] [INFO] default - GET localhost /api/v1/notes/all Thu Aug 07 2025 12:11:33 GMT+0530 (India Standard Time)
+[2025-08-07T12:11:35.933] [INFO] default - POST localhost /api/v1/collab/leaveRoom Thu Aug 07 2025 12:11:35 GMT+0530 (India Standard Time)
+[2025-08-07T12:11:35.956] [INFO] default - POST localhost /api/v1/collab/leaveRoom Thu Aug 07 2025 12:11:35 GMT+0530 (India Standard Time)
+[2025-08-07T12:11:35.958] [INFO] default - GET localhost /api/v1/notes/all Thu Aug 07 2025 12:11:35 GMT+0530 (India Standard Time)
+[2025-08-07T12:11:35.966] [INFO] default - GET localhost /api/v1/notes/all Thu Aug 07 2025 12:11:35 GMT+0530 (India Standard Time)
+[2025-08-07T12:11:36.937] [INFO] default - New Socker Client  I-GpcMMtBNOPZ__mAABZ
+[2025-08-07T12:11:36.951] [INFO] default - GET localhost /api/v1/notes/all Thu Aug 07 2025 12:11:36 GMT+0530 (India Standard Time)
+[2025-08-07T12:11:36.954] [INFO] default - GET localhost /api/v1/notes/all Thu Aug 07 2025 12:11:36 GMT+0530 (India Standard Time)
+[2025-08-07T12:11:37.785] [INFO] default - New Socker Client  gQigb3wqrHjniWwJAABb
+[2025-08-07T12:11:37.802] [INFO] default - GET localhost /api/v1/notes/all Thu Aug 07 2025 12:11:37 GMT+0530 (India Standard Time)
+[2025-08-07T12:11:37.805] [INFO] default - GET localhost /api/v1/notes/all Thu Aug 07 2025 12:11:37 GMT+0530 (India Standard Time)
+[2025-08-07T12:11:38.717] [INFO] default - New Socker Client  3KFnJbaU_OA32cPuAABd
+[2025-08-07T12:11:38.737] [INFO] default - GET localhost /api/v1/notes/all Thu Aug 07 2025 12:11:38 GMT+0530 (India Standard Time)
+[2025-08-07T12:11:38.740] [INFO] default - GET localhost /api/v1/notes/all Thu Aug 07 2025 12:11:38 GMT+0530 (India Standard Time)
+[2025-08-07T12:11:41.425] [INFO] default - New Socker Client  6ROCzP5zC-Z1akYEAABf
+[2025-08-07T12:11:41.438] [INFO] default - GET localhost /api/v1/notes/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:11:41 GMT+0530 (India Standard Time)
+[2025-08-07T12:11:41.441] [INFO] default - GET localhost /api/v1/collab/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:11:41 GMT+0530 (India Standard Time)
+[2025-08-07T12:11:41.442] [INFO] default - iD1nyTgIu6EVuQWIJtKOh joined in 705d0443-28f3-4508-a362-3189891210e0
+[2025-08-07T12:11:41.443] [INFO] default - GET localhost /api/v1/notes/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:11:41 GMT+0530 (India Standard Time)
+[2025-08-07T12:11:41.445] [INFO] default - GET localhost /api/v1/collab/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:11:41 GMT+0530 (India Standard Time)
+[2025-08-07T12:11:41.545] [INFO] default - iD1nyTgIu6EVuQWIJtKOh joined in 705d0443-28f3-4508-a362-3189891210e0
+[2025-08-07T12:11:43.420] [INFO] default - New Socker Client  7MuADfBKMfiXux2eAABh
+[2025-08-07T12:11:43.441] [INFO] default - GET localhost /api/v1/notes/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:11:43 GMT+0530 (India Standard Time)
+[2025-08-07T12:11:43.444] [INFO] default - GET localhost /api/v1/collab/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:11:43 GMT+0530 (India Standard Time)
+[2025-08-07T12:11:43.445] [INFO] default - 6K9y-87pxpP8I0Mvalhzp joined in 705d0443-28f3-4508-a362-3189891210e0
+[2025-08-07T12:11:43.448] [INFO] default - GET localhost /api/v1/notes/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:11:43 GMT+0530 (India Standard Time)
+[2025-08-07T12:11:43.450] [INFO] default - GET localhost /api/v1/collab/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:11:43 GMT+0530 (India Standard Time)
+[2025-08-07T12:11:43.455] [INFO] default - GET localhost /api/v1/collab/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:11:43 GMT+0530 (India Standard Time)
+[2025-08-07T12:11:43.464] [INFO] default - 6K9y-87pxpP8I0Mvalhzp joined in 705d0443-28f3-4508-a362-3189891210e0
+[2025-08-07T12:11:47.633] [INFO] default - New Socker Client  Xi5ujr7pdqw5vPi1AABj
+[2025-08-07T12:11:47.646] [INFO] default - GET localhost /api/v1/notes/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:11:47 GMT+0530 (India Standard Time)
+[2025-08-07T12:11:47.649] [INFO] default - GET localhost /api/v1/collab/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:11:47 GMT+0530 (India Standard Time)
+[2025-08-07T12:11:47.650] [INFO] default - oMcRoa6k0tIOtfcnEIK5g joined in 705d0443-28f3-4508-a362-3189891210e0
+[2025-08-07T12:11:47.653] [INFO] default - GET localhost /api/v1/notes/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:11:47 GMT+0530 (India Standard Time)
+[2025-08-07T12:11:47.654] [INFO] default - GET localhost /api/v1/collab/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:11:47 GMT+0530 (India Standard Time)
+[2025-08-07T12:11:47.658] [INFO] default - GET localhost /api/v1/collab/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:11:47 GMT+0530 (India Standard Time)
+[2025-08-07T12:11:47.754] [INFO] default - oMcRoa6k0tIOtfcnEIK5g joined in 705d0443-28f3-4508-a362-3189891210e0
+[2025-08-07T12:11:56.065] [INFO] default - POST localhost /api/v1/collab/leaveRoom Thu Aug 07 2025 12:11:56 GMT+0530 (India Standard Time)
+[2025-08-07T12:11:56.071] [INFO] default - GET localhost /api/v1/collab/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:11:56 GMT+0530 (India Standard Time)
+[2025-08-07T12:11:56.230] [INFO] default - New Socker Client  SRp5VuO6NB9Fem3rAABl
+[2025-08-07T12:11:56.243] [INFO] default - GET localhost /api/v1/notes/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:11:56 GMT+0530 (India Standard Time)
+[2025-08-07T12:11:56.245] [INFO] default - GET localhost /api/v1/collab/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:11:56 GMT+0530 (India Standard Time)
+[2025-08-07T12:11:56.246] [INFO] default - iD1nyTgIu6EVuQWIJtKOh joined in 705d0443-28f3-4508-a362-3189891210e0
+[2025-08-07T12:11:56.248] [INFO] default - GET localhost /api/v1/notes/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:11:56 GMT+0530 (India Standard Time)
+[2025-08-07T12:11:56.251] [INFO] default - GET localhost /api/v1/collab/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:11:56 GMT+0530 (India Standard Time)
+[2025-08-07T12:11:56.350] [INFO] default - iD1nyTgIu6EVuQWIJtKOh joined in 705d0443-28f3-4508-a362-3189891210e0
+[2025-08-07T12:11:59.998] [INFO] default - POST localhost /api/v1/collab/leaveRoom Thu Aug 07 2025 12:11:59 GMT+0530 (India Standard Time)
+[2025-08-07T12:12:00.017] [INFO] default - GET localhost /api/v1/collab/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:12:00 GMT+0530 (India Standard Time)
+[2025-08-07T12:12:00.155] [INFO] default - New Socker Client  h_Yet4-qlkk2YY5DAABn
+[2025-08-07T12:12:00.164] [INFO] default - GET localhost /api/v1/notes/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:12:00 GMT+0530 (India Standard Time)
+[2025-08-07T12:12:00.167] [INFO] default - GET localhost /api/v1/collab/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:12:00 GMT+0530 (India Standard Time)
+[2025-08-07T12:12:00.168] [INFO] default - oMcRoa6k0tIOtfcnEIK5g joined in 705d0443-28f3-4508-a362-3189891210e0
+[2025-08-07T12:12:00.170] [INFO] default - GET localhost /api/v1/notes/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:12:00 GMT+0530 (India Standard Time)
+[2025-08-07T12:12:00.172] [INFO] default - GET localhost /api/v1/collab/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:12:00 GMT+0530 (India Standard Time)
+[2025-08-07T12:12:00.272] [INFO] default - oMcRoa6k0tIOtfcnEIK5g joined in 705d0443-28f3-4508-a362-3189891210e0
+[2025-08-07T12:12:07.806] [INFO] default - POST localhost /api/v1/collab/leaveRoom Thu Aug 07 2025 12:12:07 GMT+0530 (India Standard Time)
+[2025-08-07T12:12:07.831] [INFO] default - GET localhost /api/v1/notes/all Thu Aug 07 2025 12:12:07 GMT+0530 (India Standard Time)
+[2025-08-07T12:12:07.838] [INFO] default - GET localhost /api/v1/notes/all Thu Aug 07 2025 12:12:07 GMT+0530 (India Standard Time)
