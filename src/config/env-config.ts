@@ -1,7 +1,5 @@
 import dotenv from "dotenv";
 
-dotenv.config();
-
 type PostgressType = {
   Host: string;
   Port: number;
@@ -13,9 +11,14 @@ type PostgressType = {
 type EnvConfiqType = {
   Port: Number;
   Postgress: PostgressType;
+  Redis: {
+    Host: string;
+    Password: string;
+    User: string;
+  };
 };
 
-const EnvConfig : EnvConfiqType = {
+const EnvConfig: EnvConfiqType = {
   Port: Number(process.env.PORT) || 9090,
   Postgress: {
     Host: process.env.POSTGRESS_HOST || "localhost",
@@ -23,6 +26,11 @@ const EnvConfig : EnvConfiqType = {
     Username: process.env.POSTGRESS_USERNAME || "root",
     Password: process.env.POSTGRESS_PASSWORD || "root",
     Db: process.env.POSTGRESS_DB || "postgres",
+  },
+  Redis: {
+    Host: process.env.REDIS_HOST || "localhost",
+    Password: process.env.REDIS_PASSWORD || "root",
+    User: process.env.REDIS_USER || "root",
   },
 };
 

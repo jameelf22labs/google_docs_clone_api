@@ -4910,3 +4910,393 @@ Node.js has a unique advantage because millions of frontend developers that writ
 [2025-08-07T12:12:07.806] [INFO] default - POST localhost /api/v1/collab/leaveRoom Thu Aug 07 2025 12:12:07 GMT+0530 (India Standard Time)
 [2025-08-07T12:12:07.831] [INFO] default - GET localhost /api/v1/notes/all Thu Aug 07 2025 12:12:07 GMT+0530 (India Standard Time)
 [2025-08-07T12:12:07.838] [INFO] default - GET localhost /api/v1/notes/all Thu Aug 07 2025 12:12:07 GMT+0530 (India Standard Time)
+[2025-08-07T12:15:25.794] [INFO] default - 6K9y-87pxpP8I0Mvalhzp joined in 705d0443-28f3-4508-a362-3189891210e0
+[2025-08-07T12:15:25.795] [INFO] default - GET localhost /api/v1/notes/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:15:25 GMT+0530 (India Standard Time)
+[2025-08-07T12:15:26.070] [INFO] default - iD1nyTgIu6EVuQWIJtKOh joined in 705d0443-28f3-4508-a362-3189891210e0
+[2025-08-07T12:15:26.073] [INFO] default - GET localhost /api/v1/notes/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:15:26 GMT+0530 (India Standard Time)
+[2025-08-07T12:19:32.085] [INFO] default - New Socker Client  raaRUsU83c0eS8xuAABp
+[2025-08-07T12:19:32.123] [INFO] default - iD1nyTgIu6EVuQWIJtKOh joined in 705d0443-28f3-4508-a362-3189891210e0
+[2025-08-07T12:19:32.124] [INFO] default - GET localhost /api/v1/notes/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:19:32 GMT+0530 (India Standard Time)
+[2025-08-07T12:19:32.126] [INFO] default - GET localhost /api/v1/collab/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:19:32 GMT+0530 (India Standard Time)
+[2025-08-07T12:19:32.131] [INFO] default - POST localhost /api/v1/collab/leaveRoom Thu Aug 07 2025 12:19:32 GMT+0530 (India Standard Time)
+[2025-08-07T12:19:32.132] [INFO] default - GET localhost /api/v1/collab/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:19:32 GMT+0530 (India Standard Time)
+[2025-08-07T12:19:32.134] [INFO] default - iD1nyTgIu6EVuQWIJtKOh joined in 705d0443-28f3-4508-a362-3189891210e0
+[2025-08-07T12:19:32.143] [INFO] default - GET localhost /api/v1/notes/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:19:32 GMT+0530 (India Standard Time)
+[2025-08-07T12:19:33.680] [INFO] default - POST localhost /api/v1/collab/leaveRoom Thu Aug 07 2025 12:19:33 GMT+0530 (India Standard Time)
+[2025-08-07T12:19:33.740] [INFO] default - POST localhost /api/v1/collab/leaveRoom Thu Aug 07 2025 12:19:33 GMT+0530 (India Standard Time)
+[2025-08-07T12:19:33.742] [INFO] default - GET localhost /api/v1/notes/all Thu Aug 07 2025 12:19:33 GMT+0530 (India Standard Time)
+[2025-08-07T12:19:33.749] [INFO] default - GET localhost /api/v1/notes/all Thu Aug 07 2025 12:19:33 GMT+0530 (India Standard Time)
+[2025-08-07T12:19:34.772] [INFO] default - New Socker Client  te91dXtMu8UcOmM2AABr
+[2025-08-07T12:19:34.869] [INFO] default - GET localhost /api/v1/notes/all Thu Aug 07 2025 12:19:34 GMT+0530 (India Standard Time)
+[2025-08-07T12:19:34.872] [INFO] default - GET localhost /api/v1/notes/all Thu Aug 07 2025 12:19:34 GMT+0530 (India Standard Time)
+[2025-08-07T12:19:36.675] [INFO] default - POST localhost /api/v1/collab/leaveRoom Thu Aug 07 2025 12:19:36 GMT+0530 (India Standard Time)
+[2025-08-07T12:19:36.705] [INFO] default - POST localhost /api/v1/collab/leaveRoom Thu Aug 07 2025 12:19:36 GMT+0530 (India Standard Time)
+[2025-08-07T12:19:36.707] [INFO] default - GET localhost /api/v1/notes/all Thu Aug 07 2025 12:19:36 GMT+0530 (India Standard Time)
+[2025-08-07T12:19:36.717] [INFO] default - GET localhost /api/v1/notes/all Thu Aug 07 2025 12:19:36 GMT+0530 (India Standard Time)
+[2025-08-07T12:19:37.665] [INFO] default - New Socker Client  pmE0HECrCCF4vQ3GAABt
+[2025-08-07T12:19:37.683] [INFO] default - GET localhost /api/v1/notes/all Thu Aug 07 2025 12:19:37 GMT+0530 (India Standard Time)
+[2025-08-07T12:19:37.687] [INFO] default - GET localhost /api/v1/notes/all Thu Aug 07 2025 12:19:37 GMT+0530 (India Standard Time)
+[2025-08-07T12:19:40.559] [INFO] default - New Socker Client  Wjw6cqYKXnyixNikAABv
+[2025-08-07T12:19:40.573] [INFO] default - GET localhost /api/v1/notes/all Thu Aug 07 2025 12:19:40 GMT+0530 (India Standard Time)
+[2025-08-07T12:19:40.578] [INFO] default - GET localhost /api/v1/notes/all Thu Aug 07 2025 12:19:40 GMT+0530 (India Standard Time)
+[2025-08-07T12:19:43.046] [INFO] default - New Socker Client  qVs7brCsFySUvIeCAABx
+[2025-08-07T12:19:43.062] [INFO] default - GET localhost /api/v1/notes/all Thu Aug 07 2025 12:19:43 GMT+0530 (India Standard Time)
+[2025-08-07T12:19:43.067] [INFO] default - GET localhost /api/v1/notes/all Thu Aug 07 2025 12:19:43 GMT+0530 (India Standard Time)
+[2025-08-07T12:19:43.763] [INFO] default - New Socker Client  EozwsO2TnRoqhUKUAABz
+[2025-08-07T12:19:43.779] [INFO] default - GET localhost /api/v1/notes/all Thu Aug 07 2025 12:19:43 GMT+0530 (India Standard Time)
+[2025-08-07T12:19:43.782] [INFO] default - GET localhost /api/v1/notes/all Thu Aug 07 2025 12:19:43 GMT+0530 (India Standard Time)
+[2025-08-07T12:19:44.511] [INFO] default - New Socker Client  Nv92XpkOWXodLb54AAB1
+[2025-08-07T12:19:44.536] [INFO] default - GET localhost /api/v1/notes/all Thu Aug 07 2025 12:19:44 GMT+0530 (India Standard Time)
+[2025-08-07T12:19:44.541] [INFO] default - GET localhost /api/v1/notes/all Thu Aug 07 2025 12:19:44 GMT+0530 (India Standard Time)
+[2025-08-07T12:19:45.675] [INFO] default - New Socker Client  6IvFuHMUgMiXAPvPAAB3
+[2025-08-07T12:19:45.688] [INFO] default - GET localhost /api/v1/notes/all Thu Aug 07 2025 12:19:45 GMT+0530 (India Standard Time)
+[2025-08-07T12:19:45.691] [INFO] default - GET localhost /api/v1/notes/all Thu Aug 07 2025 12:19:45 GMT+0530 (India Standard Time)
+[2025-08-07T12:19:46.262] [INFO] default - New Socker Client  JPD7AnUHjoL0Mv0cAAB5
+[2025-08-07T12:19:46.273] [INFO] default - GET localhost /api/v1/notes/all Thu Aug 07 2025 12:19:46 GMT+0530 (India Standard Time)
+[2025-08-07T12:19:46.277] [INFO] default - GET localhost /api/v1/notes/all Thu Aug 07 2025 12:19:46 GMT+0530 (India Standard Time)
+[2025-08-07T12:19:47.012] [INFO] default - New Socker Client  AiqapLlMTYsLRCazAAB7
+[2025-08-07T12:19:47.027] [INFO] default - GET localhost /api/v1/notes/all Thu Aug 07 2025 12:19:47 GMT+0530 (India Standard Time)
+[2025-08-07T12:19:47.031] [INFO] default - GET localhost /api/v1/notes/all Thu Aug 07 2025 12:19:47 GMT+0530 (India Standard Time)
+[2025-08-07T12:19:50.137] [INFO] default - New Socker Client  -TOgRUeCO-lxxRjaAAB9
+[2025-08-07T12:19:50.154] [INFO] default - iD1nyTgIu6EVuQWIJtKOh joined in 705d0443-28f3-4508-a362-3189891210e0
+[2025-08-07T12:19:50.156] [INFO] default - GET localhost /api/v1/notes/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:19:50 GMT+0530 (India Standard Time)
+[2025-08-07T12:19:50.157] [INFO] default - GET localhost /api/v1/collab/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:19:50 GMT+0530 (India Standard Time)
+[2025-08-07T12:19:50.158] [INFO] default - POST localhost /api/v1/collab/leaveRoom Thu Aug 07 2025 12:19:50 GMT+0530 (India Standard Time)
+[2025-08-07T12:19:50.159] [INFO] default - iD1nyTgIu6EVuQWIJtKOh joined in 705d0443-28f3-4508-a362-3189891210e0
+[2025-08-07T12:19:50.161] [INFO] default - GET localhost /api/v1/notes/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:19:50 GMT+0530 (India Standard Time)
+[2025-08-07T12:19:50.162] [INFO] default - GET localhost /api/v1/collab/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:19:50 GMT+0530 (India Standard Time)
+[2025-08-07T12:19:52.439] [INFO] default - New Socker Client  R6y0jKjLUfDwf3AiAAB_
+[2025-08-07T12:19:52.454] [INFO] default - iD1nyTgIu6EVuQWIJtKOh joined in 705d0443-28f3-4508-a362-3189891210e0
+[2025-08-07T12:19:52.456] [INFO] default - POST localhost /api/v1/collab/leaveRoom Thu Aug 07 2025 12:19:52 GMT+0530 (India Standard Time)
+[2025-08-07T12:19:52.456] [INFO] default - GET localhost /api/v1/notes/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:19:52 GMT+0530 (India Standard Time)
+[2025-08-07T12:19:52.458] [INFO] default - GET localhost /api/v1/collab/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:19:52 GMT+0530 (India Standard Time)
+[2025-08-07T12:19:52.460] [INFO] default - iD1nyTgIu6EVuQWIJtKOh joined in 705d0443-28f3-4508-a362-3189891210e0
+[2025-08-07T12:19:52.464] [INFO] default - GET localhost /api/v1/collab/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:19:52 GMT+0530 (India Standard Time)
+[2025-08-07T12:19:52.465] [INFO] default - GET localhost /api/v1/notes/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:19:52 GMT+0530 (India Standard Time)
+[2025-08-07T12:19:56.225] [INFO] default - New Socker Client  XIMp-RKVnocjR_9JAACB
+[2025-08-07T12:19:56.247] [INFO] default - 6K9y-87pxpP8I0Mvalhzp joined in 705d0443-28f3-4508-a362-3189891210e0
+[2025-08-07T12:19:56.249] [INFO] default - GET localhost /api/v1/notes/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:19:56 GMT+0530 (India Standard Time)
+[2025-08-07T12:19:56.251] [INFO] default - GET localhost /api/v1/collab/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:19:56 GMT+0530 (India Standard Time)
+[2025-08-07T12:19:56.252] [INFO] default - POST localhost /api/v1/collab/leaveRoom Thu Aug 07 2025 12:19:56 GMT+0530 (India Standard Time)
+[2025-08-07T12:19:56.255] [INFO] default - GET localhost /api/v1/notes/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:19:56 GMT+0530 (India Standard Time)
+[2025-08-07T12:19:56.256] [INFO] default - GET localhost /api/v1/collab/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:19:56 GMT+0530 (India Standard Time)
+[2025-08-07T12:19:56.256] [INFO] default - GET localhost /api/v1/collab/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:19:56 GMT+0530 (India Standard Time)
+[2025-08-07T12:19:56.266] [INFO] default - 6K9y-87pxpP8I0Mvalhzp joined in 705d0443-28f3-4508-a362-3189891210e0
+[2025-08-07T12:19:56.271] [INFO] default - GET localhost /api/v1/collab/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:19:56 GMT+0530 (India Standard Time)
+[2025-08-07T12:19:56.275] [INFO] default - GET localhost /api/v1/collab/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:19:56 GMT+0530 (India Standard Time)
+[2025-08-07T12:20:03.389] [INFO] default - New Socker Client  smkvd-pQYR0xLMuyAACD
+[2025-08-07T12:20:03.407] [INFO] default - oMcRoa6k0tIOtfcnEIK5g joined in 705d0443-28f3-4508-a362-3189891210e0
+[2025-08-07T12:20:03.410] [INFO] default - GET localhost /api/v1/notes/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:20:03 GMT+0530 (India Standard Time)
+[2025-08-07T12:20:03.412] [INFO] default - GET localhost /api/v1/collab/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:20:03 GMT+0530 (India Standard Time)
+[2025-08-07T12:20:03.412] [INFO] default - POST localhost /api/v1/collab/leaveRoom Thu Aug 07 2025 12:20:03 GMT+0530 (India Standard Time)
+[2025-08-07T12:20:03.414] [INFO] default - GET localhost /api/v1/collab/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:20:03 GMT+0530 (India Standard Time)
+[2025-08-07T12:20:03.415] [INFO] default - GET localhost /api/v1/collab/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:20:03 GMT+0530 (India Standard Time)
+[2025-08-07T12:20:03.419] [INFO] default - GET localhost /api/v1/notes/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:20:03 GMT+0530 (India Standard Time)
+[2025-08-07T12:20:03.421] [INFO] default - GET localhost /api/v1/collab/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:20:03 GMT+0530 (India Standard Time)
+[2025-08-07T12:20:03.512] [INFO] default - oMcRoa6k0tIOtfcnEIK5g joined in 705d0443-28f3-4508-a362-3189891210e0
+[2025-08-07T12:20:03.514] [INFO] default - GET localhost /api/v1/collab/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:20:03 GMT+0530 (India Standard Time)
+[2025-08-07T12:20:03.515] [INFO] default - GET localhost /api/v1/collab/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:20:03 GMT+0530 (India Standard Time)
+[2025-08-07T12:20:03.522] [INFO] default - GET localhost /api/v1/collab/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:20:03 GMT+0530 (India Standard Time)
+[2025-08-07T12:20:03.523] [INFO] default - GET localhost /api/v1/collab/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:20:03 GMT+0530 (India Standard Time)
+[2025-08-07T12:20:13.478] [INFO] default - New Socker Client  YIDrdwa3k0U3MDNOAACF
+[2025-08-07T12:20:13.504] [INFO] default - oMcRoa6k0tIOtfcnEIK5g joined in 705d0443-28f3-4508-a362-3189891210e0
+[2025-08-07T12:20:13.506] [INFO] default - GET localhost /api/v1/notes/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:20:13 GMT+0530 (India Standard Time)
+[2025-08-07T12:20:13.508] [INFO] default - GET localhost /api/v1/collab/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:20:13 GMT+0530 (India Standard Time)
+[2025-08-07T12:20:13.513] [INFO] default - GET localhost /api/v1/notes/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:20:13 GMT+0530 (India Standard Time)
+[2025-08-07T12:20:13.517] [INFO] default - GET localhost /api/v1/collab/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:20:13 GMT+0530 (India Standard Time)
+[2025-08-07T12:20:13.519] [INFO] default - GET localhost /api/v1/collab/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:20:13 GMT+0530 (India Standard Time)
+[2025-08-07T12:20:13.519] [INFO] default - POST localhost /api/v1/collab/leaveRoom Thu Aug 07 2025 12:20:13 GMT+0530 (India Standard Time)
+[2025-08-07T12:20:13.520] [INFO] default - GET localhost /api/v1/collab/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:20:13 GMT+0530 (India Standard Time)
+[2025-08-07T12:20:13.523] [INFO] default - oMcRoa6k0tIOtfcnEIK5g joined in 705d0443-28f3-4508-a362-3189891210e0
+[2025-08-07T12:20:13.528] [INFO] default - GET localhost /api/v1/collab/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:20:13 GMT+0530 (India Standard Time)
+[2025-08-07T12:20:13.530] [INFO] default - GET localhost /api/v1/collab/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:20:13 GMT+0530 (India Standard Time)
+[2025-08-07T12:20:13.535] [INFO] default - GET localhost /api/v1/collab/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:20:13 GMT+0530 (India Standard Time)
+[2025-08-07T12:20:13.537] [INFO] default - GET localhost /api/v1/collab/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:20:13 GMT+0530 (India Standard Time)
+[2025-08-07T12:21:20.949] [INFO] default - New Socker Client  RNg0KujRqB8ixR1YAACH
+[2025-08-07T12:21:20.982] [INFO] default - oMcRoa6k0tIOtfcnEIK5g joined in 705d0443-28f3-4508-a362-3189891210e0
+[2025-08-07T12:21:20.983] [INFO] default - GET localhost /api/v1/notes/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:21:20 GMT+0530 (India Standard Time)
+[2025-08-07T12:21:20.985] [INFO] default - GET localhost /api/v1/collab/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:21:20 GMT+0530 (India Standard Time)
+[2025-08-07T12:21:20.987] [INFO] default - GET localhost /api/v1/collab/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:21:20 GMT+0530 (India Standard Time)
+[2025-08-07T12:21:20.988] [INFO] default - GET localhost /api/v1/collab/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:21:20 GMT+0530 (India Standard Time)
+[2025-08-07T12:21:20.989] [INFO] default - GET localhost /api/v1/collab/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:21:20 GMT+0530 (India Standard Time)
+[2025-08-07T12:21:20.993] [INFO] default - POST localhost /api/v1/collab/leaveRoom Thu Aug 07 2025 12:21:20 GMT+0530 (India Standard Time)
+[2025-08-07T12:21:21.000] [INFO] default - oMcRoa6k0tIOtfcnEIK5g joined in 705d0443-28f3-4508-a362-3189891210e0
+[2025-08-07T12:21:21.006] [INFO] default - GET localhost /api/v1/notes/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:21:21 GMT+0530 (India Standard Time)
+[2025-08-07T12:21:21.008] [INFO] default - GET localhost /api/v1/collab/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:21:21 GMT+0530 (India Standard Time)
+[2025-08-07T12:21:21.009] [INFO] default - GET localhost /api/v1/collab/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:21:21 GMT+0530 (India Standard Time)
+[2025-08-07T12:21:21.014] [INFO] default - GET localhost /api/v1/collab/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:21:21 GMT+0530 (India Standard Time)
+[2025-08-07T12:21:21.016] [INFO] default - GET localhost /api/v1/collab/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:21:21 GMT+0530 (India Standard Time)
+[2025-08-07T12:24:52.198] [INFO] default - GET localhost /api/v1/collab/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:24:52 GMT+0530 (India Standard Time)
+[2025-08-07T12:24:52.199] [INFO] default - POST localhost /api/v1/collab/leaveRoom Thu Aug 07 2025 12:24:52 GMT+0530 (India Standard Time)
+[2025-08-07T12:24:52.200] [INFO] default - GET localhost /api/v1/collab/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:24:52 GMT+0530 (India Standard Time)
+[2025-08-07T12:24:52.258] [INFO] default - POST localhost /api/v1/collab/leaveRoom Thu Aug 07 2025 12:24:52 GMT+0530 (India Standard Time)
+[2025-08-07T12:24:52.259] [INFO] default - GET localhost /api/v1/collab/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:24:52 GMT+0530 (India Standard Time)
+[2025-08-07T12:24:52.260] [INFO] default - GET localhost /api/v1/collab/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:24:52 GMT+0530 (India Standard Time)
+[2025-08-07T12:24:52.260] [INFO] default - GET localhost /api/v1/notes/all Thu Aug 07 2025 12:24:52 GMT+0530 (India Standard Time)
+[2025-08-07T12:24:52.278] [INFO] default - GET localhost /api/v1/notes/all Thu Aug 07 2025 12:24:52 GMT+0530 (India Standard Time)
+[2025-08-07T12:24:55.493] [INFO] default - POST localhost /api/v1/collab/leaveRoom Thu Aug 07 2025 12:24:55 GMT+0530 (India Standard Time)
+[2025-08-07T12:24:55.494] [INFO] default - GET localhost /api/v1/collab/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:24:55 GMT+0530 (India Standard Time)
+[2025-08-07T12:24:55.554] [INFO] default - POST localhost /api/v1/collab/leaveRoom Thu Aug 07 2025 12:24:55 GMT+0530 (India Standard Time)
+[2025-08-07T12:24:55.555] [INFO] default - GET localhost /api/v1/collab/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:24:55 GMT+0530 (India Standard Time)
+[2025-08-07T12:24:55.559] [INFO] default - GET localhost /api/v1/notes/all Thu Aug 07 2025 12:24:55 GMT+0530 (India Standard Time)
+[2025-08-07T12:24:55.574] [INFO] default - GET localhost /api/v1/notes/all Thu Aug 07 2025 12:24:55 GMT+0530 (India Standard Time)
+[2025-08-07T12:24:57.448] [INFO] default - POST localhost /api/v1/collab/leaveRoom Thu Aug 07 2025 12:24:57 GMT+0530 (India Standard Time)
+[2025-08-07T12:24:57.478] [INFO] default - POST localhost /api/v1/collab/leaveRoom Thu Aug 07 2025 12:24:57 GMT+0530 (India Standard Time)
+[2025-08-07T12:24:57.480] [INFO] default - GET localhost /api/v1/notes/all Thu Aug 07 2025 12:24:57 GMT+0530 (India Standard Time)
+[2025-08-07T12:24:57.486] [INFO] default - GET localhost /api/v1/notes/all Thu Aug 07 2025 12:24:57 GMT+0530 (India Standard Time)
+[2025-08-07T12:24:59.214] [INFO] default - New Socker Client  PjRL5C0qdcMxwpVTAACJ
+[2025-08-07T12:24:59.229] [INFO] default - iD1nyTgIu6EVuQWIJtKOh joined in 705d0443-28f3-4508-a362-3189891210e0
+[2025-08-07T12:24:59.231] [INFO] default - POST localhost /api/v1/collab/leaveRoom Thu Aug 07 2025 12:24:59 GMT+0530 (India Standard Time)
+[2025-08-07T12:24:59.231] [INFO] default - GET localhost /api/v1/notes/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:24:59 GMT+0530 (India Standard Time)
+[2025-08-07T12:24:59.233] [INFO] default - GET localhost /api/v1/collab/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:24:59 GMT+0530 (India Standard Time)
+[2025-08-07T12:24:59.236] [INFO] default - GET localhost /api/v1/collab/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:24:59 GMT+0530 (India Standard Time)
+[2025-08-07T12:24:59.237] [INFO] default - GET localhost /api/v1/notes/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:24:59 GMT+0530 (India Standard Time)
+[2025-08-07T12:24:59.337] [INFO] default - iD1nyTgIu6EVuQWIJtKOh joined in 705d0443-28f3-4508-a362-3189891210e0
+[2025-08-07T12:25:04.468] [INFO] default - New Socker Client  WlpMuQ-fuRYleUZtAACL
+[2025-08-07T12:25:04.497] [INFO] default - 6K9y-87pxpP8I0Mvalhzp joined in 705d0443-28f3-4508-a362-3189891210e0
+[2025-08-07T12:25:04.498] [INFO] default - GET localhost /api/v1/notes/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:25:04 GMT+0530 (India Standard Time)
+[2025-08-07T12:25:04.501] [INFO] default - GET localhost /api/v1/collab/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:25:04 GMT+0530 (India Standard Time)
+[2025-08-07T12:25:04.502] [INFO] default - GET localhost /api/v1/collab/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:25:04 GMT+0530 (India Standard Time)
+[2025-08-07T12:25:04.506] [INFO] default - GET localhost /api/v1/notes/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:25:04 GMT+0530 (India Standard Time)
+[2025-08-07T12:25:04.508] [INFO] default - POST localhost /api/v1/collab/leaveRoom Thu Aug 07 2025 12:25:04 GMT+0530 (India Standard Time)
+[2025-08-07T12:25:04.508] [INFO] default - GET localhost /api/v1/collab/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:25:04 GMT+0530 (India Standard Time)
+[2025-08-07T12:25:04.568] [INFO] default - 6K9y-87pxpP8I0Mvalhzp joined in 705d0443-28f3-4508-a362-3189891210e0
+[2025-08-07T12:25:04.575] [INFO] default - GET localhost /api/v1/collab/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:25:04 GMT+0530 (India Standard Time)
+[2025-08-07T12:25:04.580] [INFO] default - GET localhost /api/v1/collab/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:25:04 GMT+0530 (India Standard Time)
+[2025-08-07T12:25:19.300] [INFO] default - 705d0443-28f3-4508-a362-3189891210e0 content updated Run JavaScript Everywhere
+
+Node.js® is a free, open-source, cross-platform JavaScript runtime environment that lets developers create servers, web apps, command line tools and scripts.
+
+Introduction to Node.js
+Node.js is an open-source and cross-platform JavaScript runtime environment. It is a popular tool for almost any kind of project!
+
+Node.js runs the V8 JavaScript engine, the core of Google Chrome, outside of the browser. This allows Node.js to be very performant.
+
+A Node.js app runs in a single process, without creating a new thread for every request. Node.js provides a set of asynchronous I/O primitives in its standard library that prevent JavaScript code from blocking. In addition, libraries in Node.js are generally written using non-blocking paradigms. Accordingly, blocking behavior is the exception rather than the norm in Node.js.
+
+This allows Node.js to handle thousands of concurrent connections with a single server without introducing the burden of managing thread concurrency, which could be a significant source of bugs.
+
+Node.js has a unique advantage because millions of frontend developers that write JavaScript for the browser are now able to write the server-side code in addition to the client-side code without the need to learn a completely different language.
+
+[2025-08-07T12:25:19.426] [INFO] default - 705d0443-28f3-4508-a362-3189891210e0 content updated Run JavaScript Everywhere
+
+Node.js® is a free, open-source, cross-platform JavaScript runtime environment that lets developers create servers, web apps, command line tools and scripts.
+
+Introduction to Node.js
+Node.js is an open-source and cross-platform JavaScript runtime environment. It is a popular tool for almost any kind of project!
+
+Node.js runs the V8 JavaScript engine, the core of Google Chrome, outside of the browser. This allows Node.js to be very performant.
+
+A Node.js app runs in a single process, without creating a new thread for every request. Node.js provides a set of asynchronous I/O primitives in its standard library that prevent JavaScript code from blocking. In addition, libraries in Node.js are generally written using non-blocking paradigms. Accordingly, blocking behavior is the exception rather than the norm in Node.js.
+
+This allows Node.js to handle thousands of concurrent connections with a single server without introducing the burden of managing thread concurrency, which could be a significant source of bugs.
+
+Node.js has a unique advantage because millions of frontend developers that write JavaScript for the browser are now able to write the server-side code in addition to the client-side code without the need to learn a completely different language.
+
+
+[2025-08-07T12:25:19.975] [INFO] default - 705d0443-28f3-4508-a362-3189891210e0 content updated Run JavaScript Everywhere
+
+Node.js® is a free, open-source, cross-platform JavaScript runtime environment that lets developers create servers, web apps, command line tools and scripts.
+
+Introduction to Node.js
+Node.js is an open-source and cross-platform JavaScript runtime environment. It is a popular tool for almost any kind of project!
+
+Node.js runs the V8 JavaScript engine, the core of Google Chrome, outside of the browser. This allows Node.js to be very performant.
+
+A Node.js app runs in a single process, without creating a new thread for every request. Node.js provides a set of asynchronous I/O primitives in its standard library that prevent JavaScript code from blocking. In addition, libraries in Node.js are generally written using non-blocking paradigms. Accordingly, blocking behavior is the exception rather than the norm in Node.js.
+
+This allows Node.js to handle thousands of concurrent connections with a single server without introducing the burden of managing thread concurrency, which could be a significant source of bugs.
+
+Node.js has a unique advantage because millions of frontend developers that write JavaScript for the browser are now able to write the server-side code in addition to the client-side code without the need to learn a completely different language.
+
+In Node.js the new ECMAScript standards can be used without problems, as you don't have to wait for all your users to update their browsers - you are in charge of deciding which ECMAScript version to use by changing the Node.js version, and you can also enable specific experimental features by running Node.js with flags.
+[2025-08-07T12:25:20.477] [INFO] default - 705d0443-28f3-4508-a362-3189891210e0 content updated Run JavaScript Everywhere
+
+Node.js® is a free, open-source, cross-platform JavaScript runtime environment that lets developers create servers, web apps, command line tools and scripts.
+
+Introduction to Node.js
+Node.js is an open-source and cross-platform JavaScript runtime environment. It is a popular tool for almost any kind of project!
+
+Node.js runs the V8 JavaScript engine, the core of Google Chrome, outside of the browser. This allows Node.js to be very performant.
+
+A Node.js app runs in a single process, without creating a new thread for every request. Node.js provides a set of asynchronous I/O primitives in its standard library that prevent JavaScript code from blocking. In addition, libraries in Node.js are generally written using non-blocking paradigms. Accordingly, blocking behavior is the exception rather than the norm in Node.js.
+
+This allows Node.js to handle thousands of concurrent connections with a single server without introducing the burden of managing thread concurrency, which could be a significant source of bugs.
+
+Node.js has a unique advantage because millions of frontend developers that write JavaScript for the browser are now able to write the server-side code in addition to the client-side code without the need to learn a completely different language.
+
+In Node.js the new ECMAScript standards can be used without problems, as you don't have to wait for all your users to update their browsers - you are in charge of deciding which ECMAScript version to use by changing the Node.js version, and you can also enable specific experimental features by running Node.js with flags.
+
+[2025-08-07T12:25:20.619] [INFO] default - 705d0443-28f3-4508-a362-3189891210e0 content updated Run JavaScript Everywhere
+
+Node.js® is a free, open-source, cross-platform JavaScript runtime environment that lets developers create servers, web apps, command line tools and scripts.
+
+Introduction to Node.js
+Node.js is an open-source and cross-platform JavaScript runtime environment. It is a popular tool for almost any kind of project!
+
+Node.js runs the V8 JavaScript engine, the core of Google Chrome, outside of the browser. This allows Node.js to be very performant.
+
+A Node.js app runs in a single process, without creating a new thread for every request. Node.js provides a set of asynchronous I/O primitives in its standard library that prevent JavaScript code from blocking. In addition, libraries in Node.js are generally written using non-blocking paradigms. Accordingly, blocking behavior is the exception rather than the norm in Node.js.
+
+This allows Node.js to handle thousands of concurrent connections with a single server without introducing the burden of managing thread concurrency, which could be a significant source of bugs.
+
+Node.js has a unique advantage because millions of frontend developers that write JavaScript for the browser are now able to write the server-side code in addition to the client-side code without the need to learn a completely different language.
+
+In Node.js the new ECMAScript standards can be used without problems, as you don't have to wait for all your users to update their browsers - you are in charge of deciding which ECMAScript version to use by changing the Node.js version, and you can also enable specific experimental features by running Node.js with flags.
+
+
+[2025-08-07T12:25:21.107] [INFO] default - 705d0443-28f3-4508-a362-3189891210e0 content updated Run JavaScript Everywhere
+
+Node.js® is a free, open-source, cross-platform JavaScript runtime environment that lets developers create servers, web apps, command line tools and scripts.
+
+Introduction to Node.js
+Node.js is an open-source and cross-platform JavaScript runtime environment. It is a popular tool for almost any kind of project!
+
+Node.js runs the V8 JavaScript engine, the core of Google Chrome, outside of the browser. This allows Node.js to be very performant.
+
+A Node.js app runs in a single process, without creating a new thread for every request. Node.js provides a set of asynchronous I/O primitives in its standard library that prevent JavaScript code from blocking. In addition, libraries in Node.js are generally written using non-blocking paradigms. Accordingly, blocking behavior is the exception rather than the norm in Node.js.
+
+This allows Node.js to handle thousands of concurrent connections with a single server without introducing the burden of managing thread concurrency, which could be a significant source of bugs.
+
+Node.js has a unique advantage because millions of frontend developers that write JavaScript for the browser are now able to write the server-side code in addition to the client-side code without the need to learn a completely different language.
+
+In Node.js the new ECMAScript standards can be used without problems, as you don't have to wait for all your users to update their browsers - you are in charge of deciding which ECMAScript version to use by changing the Node.js version, and you can also enable specific experimental features by running Node.js with flags.
+
+In Node.js the new ECMAScript standards can be used without problems, as you don't have to wait for all your users to update their browsers - you are in charge of deciding which ECMAScript version to use by changing the Node.js version, and you can also enable specific experimental features by running Node.js with flags.
+[2025-08-07T12:25:21.592] [INFO] default - 705d0443-28f3-4508-a362-3189891210e0 content updated Run JavaScript Everywhere
+
+Node.js® is a free, open-source, cross-platform JavaScript runtime environment that lets developers create servers, web apps, command line tools and scripts.
+
+Introduction to Node.js
+Node.js is an open-source and cross-platform JavaScript runtime environment. It is a popular tool for almost any kind of project!
+
+Node.js runs the V8 JavaScript engine, the core of Google Chrome, outside of the browser. This allows Node.js to be very performant.
+
+A Node.js app runs in a single process, without creating a new thread for every request. Node.js provides a set of asynchronous I/O primitives in its standard library that prevent JavaScript code from blocking. In addition, libraries in Node.js are generally written using non-blocking paradigms. Accordingly, blocking behavior is the exception rather than the norm in Node.js.
+
+This allows Node.js to handle thousands of concurrent connections with a single server without introducing the burden of managing thread concurrency, which could be a significant source of bugs.
+
+Node.js has a unique advantage because millions of frontend developers that write JavaScript for the browser are now able to write the server-side code in addition to the client-side code without the need to learn a completely different language.
+
+In Node.js the new ECMAScript standards can be used without problems, as you don't have to wait for all your users to update their browsers - you are in charge of deciding which ECMAScript version to use by changing the Node.js version, and you can also enable specific experimental features by running Node.js with flags.
+
+In Node.js the new ECMAScript standards can be used without problems, as you don't have to wait for all your users to update their browsers - you are in charge of deciding which ECMAScript version to use by changing the Node.js version, and you can also enable specific experimental features by running Node.js with flags.In Node.js the new ECMAScript standards can be used without problems, as you don't have to wait for all your users to update their browsers - you are in charge of deciding which ECMAScript version to use by changing the Node.js version, and you can also enable specific experimental features by running Node.js with flags.
+[2025-08-07T12:25:22.954] [INFO] default - 705d0443-28f3-4508-a362-3189891210e0 content updated Run JavaScript Everywhere
+
+Node.js® is a free, open-source, cross-platform JavaScript runtime environment that lets developers create servers, web apps, command line tools and scripts.
+
+Introduction to Node.js
+Node.js is an open-source and cross-platform JavaScript runtime environment. It is a popular tool for almost any kind of project!
+
+Node.js runs the V8 JavaScript engine, the core of Google Chrome, outside of the browser. This allows Node.js to be very performant.
+
+A Node.js app runs in a single process, without creating a new thread for every request. Node.js provides a set of asynchronous I/O primitives in its standard library that prevent JavaScript code from blocking. In addition, libraries in Node.js are generally written using non-blocking paradigms. Accordingly, blocking behavior is the exception rather than the norm in Node.js.
+
+This allows Node.js to handle thousands of concurrent connections with a single server without introducing the burden of managing thread concurrency, which could be a significant source of bugs.
+
+Node.js has a unique advantage because millions of frontend developers that write JavaScript for the browser are now able to write the server-side code in addition to the client-side code without the need to learn a completely different language.
+
+In Node.js the new ECMAScript standards can be used without problems, as you don't have to wait for all your users to update their browsers - you are in charge of deciding which ECMAScript version to use by changing the Node.js version, and you can also enable specific experimental features by running Node.js with flags.
+
+In Node.js the new ECMAScript standards can be used without problems, as you don't have to wait for all your users to update their browsers - you are in charge of deciding which ECMAScript version to use by changing the Node.js version, and you can also enable specific experimental features by running Node.js with flags.In Node.js the new ECMAScript standards can be used without problems, as you don't have to wait for all your users to update their browsers - you are in charge of deciding which ECMAScript version to use by changing the Node.js version, and you can also enable specific experimental features by running Node.js with flags.
+
+[2025-08-07T12:25:29.605] [INFO] default - POST localhost /api/v1/collab/leaveRoom Thu Aug 07 2025 12:25:29 GMT+0530 (India Standard Time)
+[2025-08-07T12:25:29.606] [INFO] default - GET localhost /api/v1/collab/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:25:29 GMT+0530 (India Standard Time)
+[2025-08-07T12:25:29.649] [INFO] default - POST localhost /api/v1/collab/leaveRoom Thu Aug 07 2025 12:25:29 GMT+0530 (India Standard Time)
+[2025-08-07T12:25:29.652] [INFO] default - GET localhost /api/v1/collab/705d0443-28f3-4508-a362-3189891210e0 Thu Aug 07 2025 12:25:29 GMT+0530 (India Standard Time)
+[2025-08-07T12:25:29.653] [INFO] default - GET localhost /api/v1/notes/all Thu Aug 07 2025 12:25:29 GMT+0530 (India Standard Time)
+[2025-08-07T12:25:29.661] [INFO] default - GET localhost /api/v1/notes/all Thu Aug 07 2025 12:25:29 GMT+0530 (India Standard Time)
+[2025-08-07T12:38:13.309] [INFO] default - GET localhost /api/v1/notes/all Thu Aug 07 2025 12:38:13 GMT+0530 (India Standard Time)
+[2025-08-07T12:38:13.311] [INFO] default - POST localhost /api/v1/collab/leaveRoom Thu Aug 07 2025 12:38:13 GMT+0530 (India Standard Time)
+[2025-08-07T12:38:13.332] [INFO] default - GET localhost /api/v1/notes/all Thu Aug 07 2025 12:38:13 GMT+0530 (India Standard Time)
+[2025-08-07T12:38:30.285] [INFO] default - New Socker Client  HMyojANjW2vK2WdWAACO
+[2025-08-07T12:38:30.291] [INFO] default - New Socker Client  igQ6eDWxuRJVFQfUAACP
+[2025-08-07T12:38:30.306] [INFO] default - GET localhost /api/v1/notes/all Thu Aug 07 2025 12:38:30 GMT+0530 (India Standard Time)
+[2025-08-07T12:38:30.322] [INFO] default - GET localhost /api/v1/notes/all Thu Aug 07 2025 12:38:30 GMT+0530 (India Standard Time)
+[2025-08-07T12:38:30.330] [INFO] default - GET localhost /api/v1/notes/all Thu Aug 07 2025 12:38:30 GMT+0530 (India Standard Time)
+[2025-08-07T12:38:30.333] [INFO] default - GET localhost /api/v1/notes/all Thu Aug 07 2025 12:38:30 GMT+0530 (India Standard Time)
+[2025-08-07T12:38:30.353] [INFO] default - New Socker Client  HnrK3o2yrmPPxGmbAACR
+[2025-08-07T12:38:30.420] [INFO] default - GET localhost /api/v1/notes/all Thu Aug 07 2025 12:38:30 GMT+0530 (India Standard Time)
+[2025-08-07T12:38:30.425] [INFO] default - GET localhost /api/v1/notes/all Thu Aug 07 2025 12:38:30 GMT+0530 (India Standard Time)
+[2025-08-07T12:56:39.142] [INFO] default - New Socker Client  qHGymrLwk6TtDJJiAACV
+[2025-08-07T12:56:39.158] [INFO] default - New Socker Client  Iji7gQ2RxEf6t59dAACW
+[2025-08-07T12:56:39.162] [INFO] default - New Socker Client  yRYC04PWtyWbYPMwAACX
+[2025-08-07T12:56:39.169] [INFO] default - GET localhost /api/v1/notes/all Thu Aug 07 2025 12:56:39 GMT+0530 (India Standard Time)
+[2025-08-07T12:56:39.183] [INFO] default - GET localhost /api/v1/notes/all Thu Aug 07 2025 12:56:39 GMT+0530 (India Standard Time)
+[2025-08-07T12:56:39.187] [INFO] default - GET localhost /api/v1/notes/all Thu Aug 07 2025 12:56:39 GMT+0530 (India Standard Time)
+[2025-08-07T12:56:39.208] [INFO] default - GET localhost /api/v1/notes/all Thu Aug 07 2025 12:56:39 GMT+0530 (India Standard Time)
+[2025-08-07T12:56:39.210] [INFO] default - GET localhost /api/v1/notes/all Thu Aug 07 2025 12:56:39 GMT+0530 (India Standard Time)
+[2025-08-07T12:56:39.211] [INFO] default - GET localhost /api/v1/notes/all Thu Aug 07 2025 12:56:39 GMT+0530 (India Standard Time)
+[2025-08-07T13:27:54.219] [INFO] default - New Socker Client  KRnBBK1n9TcRXDdhAACb
+[2025-08-07T13:27:54.234] [INFO] default - New Socker Client  ym0ggBLiUzQNfijhAACc
+[2025-08-07T13:27:54.249] [INFO] default - New Socker Client  1uzTtnOPc6rjNYx3AACd
+[2025-08-07T13:27:54.249] [INFO] default - GET localhost /api/v1/notes/all Thu Aug 07 2025 13:27:54 GMT+0530 (India Standard Time)
+[2025-08-07T13:27:54.252] [INFO] default - GET localhost /api/v1/notes/all Thu Aug 07 2025 13:27:54 GMT+0530 (India Standard Time)
+[2025-08-07T13:27:54.281] [INFO] default - GET localhost /api/v1/notes/all Thu Aug 07 2025 13:27:54 GMT+0530 (India Standard Time)
+[2025-08-07T13:27:54.283] [INFO] default - GET localhost /api/v1/notes/all Thu Aug 07 2025 13:27:54 GMT+0530 (India Standard Time)
+[2025-08-07T13:27:54.286] [INFO] default - GET localhost /api/v1/notes/all Thu Aug 07 2025 13:27:54 GMT+0530 (India Standard Time)
+[2025-08-07T13:27:54.294] [INFO] default - GET localhost /api/v1/notes/all Thu Aug 07 2025 13:27:54 GMT+0530 (India Standard Time)
+[2025-08-07T14:02:17.982] [INFO] default - New Socker Client  FKz2xxPFDZvDwS8WAACf
+[2025-08-07T14:02:18.002] [INFO] default - GET localhost /api/v1/notes/all Thu Aug 07 2025 14:02:18 GMT+0530 (India Standard Time)
+[2025-08-07T14:02:18.017] [INFO] default - New Socker Client  oqvy7rRY4d1mEiAcAACi
+[2025-08-07T14:02:18.027] [INFO] default - New Socker Client  wSC9kQG2Ev_cT-klAACj
+[2025-08-07T14:02:18.028] [INFO] default - GET localhost /api/v1/notes/all Thu Aug 07 2025 14:02:18 GMT+0530 (India Standard Time)
+[2025-08-07T14:02:18.040] [INFO] default - GET localhost /api/v1/notes/all Thu Aug 07 2025 14:02:18 GMT+0530 (India Standard Time)
+[2025-08-07T14:02:18.047] [INFO] default - GET localhost /api/v1/notes/all Thu Aug 07 2025 14:02:18 GMT+0530 (India Standard Time)
+[2025-08-07T14:02:18.049] [INFO] default - GET localhost /api/v1/notes/all Thu Aug 07 2025 14:02:18 GMT+0530 (India Standard Time)
+[2025-08-07T14:02:18.054] [INFO] default - GET localhost /api/v1/notes/all Thu Aug 07 2025 14:02:18 GMT+0530 (India Standard Time)
+[2025-08-07T14:17:47.077] [INFO] default - Sequelize with Postgres Connected
+[2025-08-07T14:17:47.081] [INFO] default - Application running on port  9090
+[2025-08-07T14:17:49.082] [INFO] default - New Socker Client  aZYd8v4JdXUnwE6bAAAB
+[2025-08-07T14:17:55.864] [INFO] default - Sequelize with Postgres Connected
+[2025-08-07T14:17:55.869] [INFO] default - Application running on port  9090
+[2025-08-07T14:17:57.085] [INFO] default - New Socker Client  bnfY7mHm5QbJPqfsAAAB
+[2025-08-07T14:18:08.707] [INFO] default - Sequelize with Postgres Connected
+[2025-08-07T14:18:08.711] [INFO] default - Application running on port  9090
+[2025-08-07T14:18:13.768] [INFO] default - Sequelize with Postgres Connected
+[2025-08-07T14:18:13.772] [INFO] default - Application running on port  9090
+[2025-08-07T14:18:17.090] [INFO] default - New Socker Client  i_cGJuNSk9heq-FwAAAB
+[2025-08-07T14:18:24.945] [INFO] default - Sequelize with Postgres Connected
+[2025-08-07T14:18:24.950] [INFO] default - Application running on port  9090
+[2025-08-07T14:18:31.112] [INFO] default - Sequelize with Postgres Connected
+[2025-08-07T14:18:31.116] [INFO] default - Application running on port  9090
+[2025-08-07T14:18:33.082] [INFO] default - New Socker Client  39Dkkm7ethNZt2cCAAAB
+[2025-08-07T14:18:36.877] [INFO] default - Sequelize with Postgres Connected
+[2025-08-07T14:18:36.881] [INFO] default - Application running on port  9090
+[2025-08-07T14:18:37.081] [INFO] default - New Socker Client  EbOLjB9R01IS5w4DAAAB
+[2025-08-07T14:18:45.567] [INFO] default - Sequelize with Postgres Connected
+[2025-08-07T14:18:45.575] [INFO] default - Application running on port  9090
+[2025-08-07T14:18:48.081] [INFO] default - New Socker Client  lcOJmlxKUK-h5WrdAAAB
+[2025-08-07T14:22:23.196] [INFO] default - Sequelize with Postgres Connected
+[2025-08-07T14:22:23.200] [INFO] default - Application running on port  9090
+[2025-08-07T14:22:28.082] [INFO] default - New Socker Client  6iDK4LUls_826WO8AAAB
+[2025-08-07T14:22:36.130] [INFO] default - Sequelize with Postgres Connected
+[2025-08-07T14:22:36.134] [INFO] default - Application running on port  9090
+[2025-08-07T14:22:40.603] [INFO] default - Sequelize with Postgres Connected
+[2025-08-07T14:22:40.607] [INFO] default - Application running on port  9090
+[2025-08-07T14:22:44.083] [INFO] default - New Socker Client  cJx6e2_JbMVpJfO1AAAB
+[2025-08-07T14:23:08.712] [INFO] default - Sequelize with Postgres Connected
+[2025-08-07T14:23:08.716] [INFO] default - Application running on port  9090
+[2025-08-07T14:23:15.217] [INFO] default - Sequelize with Postgres Connected
+[2025-08-07T14:23:15.221] [INFO] default - Application running on port  9090
+[2025-08-07T14:23:19.081] [INFO] default - New Socker Client  IqkDG0QZl3H3XwdtAAAB
+[2025-08-07T14:24:02.542] [INFO] default - Sequelize with Postgres Connected
+[2025-08-07T14:24:02.546] [INFO] default - Application running on port  9090
+[2025-08-07T14:24:10.850] [INFO] default - Sequelize with Postgres Connected
+[2025-08-07T14:24:10.854] [INFO] default - Application running on port  9090
+[2025-08-07T14:24:14.081] [INFO] default - New Socker Client  64JSlC8Qvp6NNYEBAAAB
+[2025-08-07T14:24:32.724] [INFO] default - Sequelize with Postgres Connected
+[2025-08-07T14:24:32.728] [INFO] default - Application running on port  9090
+[2025-08-07T14:24:33.080] [INFO] default - New Socker Client  yUHR4UWQohAU5crfAAAB
+[2025-08-07T14:24:44.781] [INFO] default - Sequelize with Postgres Connected
+[2025-08-07T14:24:44.784] [INFO] default - Application running on port  9090
+[2025-08-07T14:24:47.083] [INFO] default - New Socker Client  xlc-aTxNijOnCMHpAAAB
+[2025-08-07T14:25:27.793] [INFO] default - Sequelize with Postgres Connected
+[2025-08-07T14:25:27.797] [INFO] default - Application running on port  9090
+[2025-08-07T14:25:33.685] [INFO] default - Sequelize with Postgres Connected
+[2025-08-07T14:25:33.689] [INFO] default - Application running on port  9090
+[2025-08-07T14:25:39.654] [INFO] default - Sequelize with Postgres Connected
+[2025-08-07T14:25:39.658] [INFO] default - Application running on port  9090
+[2025-08-07T14:25:48.225] [INFO] default - Sequelize with Postgres Connected
+[2025-08-07T14:25:48.231] [INFO] default - Application running on port  9090
+[2025-08-07T14:25:51.080] [INFO] default - New Socker Client  pYQRqEKUyVgxjOpKAAAB
